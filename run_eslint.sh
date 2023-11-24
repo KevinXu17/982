@@ -25,5 +25,5 @@ for repo in "${REPOS[@]}"; do
     # npm install eslint
 
     # Run ESLint and save results in JSON format
-    npx standard --verbose > "$RESULTS_DIR/${REPO_NAME}_standard_results.txt"
+    npx standard --verbose > "$RESULTS_DIR/${REPO_NAME}.txt"
 done
