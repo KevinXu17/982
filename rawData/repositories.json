@@ -1,0 +1,4082 @@
+[
+    {
+        "clone_url": "https://github.com/DefiLlama/DefiLlama-Adapters.git",
+        "full_name": "DefiLlama/DefiLlama-Adapters",
+        "size": 36346,
+        "stargazers_count": 706,
+        "subscribers_count": 18,
+        "watchers_count": 706
+    },
+    {
+        "clone_url": "https://github.com/open-telemetry/opentelemetry.io.git",
+        "full_name": "open-telemetry/opentelemetry.io",
+        "size": 43494,
+        "stargazers_count": 423,
+        "subscribers_count": 54,
+        "watchers_count": 423
+    },
+    {
+        "clone_url": "https://github.com/lucide-icons/lucide.git",
+        "full_name": "lucide-icons/lucide",
+        "size": 11679,
+        "stargazers_count": 6622,
+        "subscribers_count": 23,
+        "watchers_count": 6622
+    },
+    {
+        "clone_url": "https://github.com/jmoenig/Snap.git",
+        "full_name": "jmoenig/Snap",
+        "size": 1554285,
+        "stargazers_count": 1428,
+        "subscribers_count": 98,
+        "watchers_count": 1428
+    },
+    {
+        "clone_url": "https://github.com/Talend/ui.git",
+        "full_name": "Talend/ui",
+        "size": 80058,
+        "stargazers_count": 148,
+        "subscribers_count": 43,
+        "watchers_count": 148
+    },
+    {
+        "clone_url": "https://github.com/rphlr/42-Evals.git",
+        "full_name": "rphlr/42-Evals",
+        "size": 55863,
+        "stargazers_count": 279,
+        "subscribers_count": 2,
+        "watchers_count": 279
+    },
+    {
+        "clone_url": "https://github.com/AdguardTeam/HostlistsRegistry.git",
+        "full_name": "AdguardTeam/HostlistsRegistry",
+        "size": 1860702,
+        "stargazers_count": 144,
+        "subscribers_count": 17,
+        "watchers_count": 144
+    },
+    {
+        "clone_url": "https://github.com/fanmingming/live.git",
+        "full_name": "fanmingming/live",
+        "size": 1261140,
+        "stargazers_count": 14961,
+        "subscribers_count": 138,
+        "watchers_count": 14962
+    },
+    {
+        "clone_url": "https://github.com/yumata/lampa.git",
+        "full_name": "yumata/lampa",
+        "size": 17169,
+        "stargazers_count": 252,
+        "subscribers_count": 23,
+        "watchers_count": 252
+    },
+    {
+        "clone_url": "https://github.com/simple-icons/simple-icons.git",
+        "full_name": "simple-icons/simple-icons",
+        "size": 61710,
+        "stargazers_count": 16888,
+        "subscribers_count": 185,
+        "watchers_count": 16888
+    },
+    {
+        "clone_url": "https://github.com/openlayers/openlayers.git",
+        "full_name": "openlayers/openlayers",
+        "size": 125670,
+        "stargazers_count": 10482,
+        "subscribers_count": 398,
+        "watchers_count": 10482
+    },
+    {
+        "clone_url": "https://github.com/Tsuk1ko/cq-picsearcher-bot.git",
+        "full_name": "Tsuk1ko/cq-picsearcher-bot",
+        "size": 29931,
+        "stargazers_count": 1477,
+        "subscribers_count": 23,
+        "watchers_count": 1477
+    },
+    {
+        "clone_url": "https://github.com/DevExpress/DevExtreme.git",
+        "full_name": "DevExpress/DevExtreme",
+        "size": 867505,
+        "stargazers_count": 1760,
+        "subscribers_count": 76,
+        "watchers_count": 1760
+    },
+    {
+        "clone_url": "https://github.com/deezertidal/Surge_Module.git",
+        "full_name": "deezertidal/Surge_Module",
+        "size": 696721,
+        "stargazers_count": 559,
+        "subscribers_count": 8,
+        "watchers_count": 559
+    },
+    {
+        "clone_url": "https://github.com/deezertidal/shadowrocket-rules.git",
+        "full_name": "deezertidal/shadowrocket-rules",
+        "size": 648740,
+        "stargazers_count": 3519,
+        "subscribers_count": 43,
+        "watchers_count": 3519
+    },
+    {
+        "clone_url": "https://github.com/adamlui/userscripts.git",
+        "full_name": "adamlui/userscripts",
+        "size": 101296,
+        "stargazers_count": 212,
+        "subscribers_count": 7,
+        "watchers_count": 212
+    },
+    {
+        "clone_url": "https://github.com/Expensify/App.git",
+        "full_name": "Expensify/App",
+        "size": 908000,
+        "stargazers_count": 1933,
+        "subscribers_count": 74,
+        "watchers_count": 1933
+    },
+    {
+        "clone_url": "https://github.com/sunny9577/proxy-scraper.git",
+        "full_name": "sunny9577/proxy-scraper",
+        "size": 654671,
+        "stargazers_count": 296,
+        "subscribers_count": 15,
+        "watchers_count": 296
+    },
+    {
+        "clone_url": "https://github.com/hoothin/SearchJumper.git",
+        "full_name": "hoothin/SearchJumper",
+        "size": 37811,
+        "stargazers_count": 410,
+        "subscribers_count": 6,
+        "watchers_count": 410
+    },
+    {
+        "clone_url": "https://github.com/PKM-er/Pkmer-Docs.git",
+        "full_name": "PKM-er/Pkmer-Docs",
+        "size": 211189,
+        "stargazers_count": 234,
+        "subscribers_count": 6,
+        "watchers_count": 234
+    },
+    {
+        "clone_url": "https://github.com/anji-plus/report.git",
+        "full_name": "anji-plus/report",
+        "size": 107712,
+        "stargazers_count": 741,
+        "subscribers_count": 10,
+        "watchers_count": 741
+    },
+    {
+        "clone_url": "https://github.com/rollup/rollup.git",
+        "full_name": "rollup/rollup",
+        "size": 25590,
+        "stargazers_count": 24174,
+        "subscribers_count": 259,
+        "watchers_count": 24174
+    },
+    {
+        "clone_url": "https://github.com/mozilla/releases-comm-central.git",
+        "full_name": "mozilla/releases-comm-central",
+        "size": 259511,
+        "stargazers_count": 144,
+        "subscribers_count": 22,
+        "watchers_count": 144
+    },
+    {
+        "clone_url": "https://github.com/PikaBotz/Anya_v2-MD.git",
+        "full_name": "PikaBotz/Anya_v2-MD",
+        "size": 273040,
+        "stargazers_count": 145,
+        "subscribers_count": 10,
+        "watchers_count": 145
+    },
+    {
+        "clone_url": "https://github.com/mermaid-js/mermaid.git",
+        "full_name": "mermaid-js/mermaid",
+        "size": 226013,
+        "stargazers_count": 63008,
+        "subscribers_count": 621,
+        "watchers_count": 63008
+    },
+    {
+        "clone_url": "https://github.com/glin/reactable.git",
+        "full_name": "glin/reactable",
+        "size": 38191,
+        "stargazers_count": 585,
+        "subscribers_count": 19,
+        "watchers_count": 585
+    },
+    {
+        "clone_url": "https://github.com/adamlui/chatgpt-infinity.git",
+        "full_name": "adamlui/chatgpt-infinity",
+        "size": 12012,
+        "stargazers_count": 120,
+        "subscribers_count": 4,
+        "watchers_count": 120
+    },
+    {
+        "clone_url": "https://github.com/OpenBMB/AgentVerse.git",
+        "full_name": "OpenBMB/AgentVerse",
+        "size": 249247,
+        "stargazers_count": 3028,
+        "subscribers_count": 49,
+        "watchers_count": 3028
+    },
+    {
+        "clone_url": "https://github.com/be5invis/Iosevka.git",
+        "full_name": "be5invis/Iosevka",
+        "size": 8075638,
+        "stargazers_count": 17272,
+        "subscribers_count": 189,
+        "watchers_count": 17272
+    },
+    {
+        "clone_url": "https://github.com/cerner/terra-core.git",
+        "full_name": "cerner/terra-core",
+        "size": 358669,
+        "stargazers_count": 182,
+        "subscribers_count": 36,
+        "watchers_count": 182
+    },
+    {
+        "clone_url": "https://github.com/MarlinFirmware/MarlinDocumentation.git",
+        "full_name": "MarlinFirmware/MarlinDocumentation",
+        "size": 49675,
+        "stargazers_count": 352,
+        "subscribers_count": 48,
+        "watchers_count": 352
+    },
+    {
+        "clone_url": "https://github.com/WordPress/gutenberg.git",
+        "full_name": "WordPress/gutenberg",
+        "size": 799523,
+        "stargazers_count": 9228,
+        "subscribers_count": 348,
+        "watchers_count": 9228
+    },
+    {
+        "clone_url": "https://github.com/DustinBrett/daedalOS.git",
+        "full_name": "DustinBrett/daedalOS",
+        "size": 334658,
+        "stargazers_count": 6878,
+        "subscribers_count": 72,
+        "watchers_count": 6878
+    },
+    {
+        "clone_url": "https://github.com/HiNinoJay/hexo-theme-A4.git",
+        "full_name": "HiNinoJay/hexo-theme-A4",
+        "size": 23278,
+        "stargazers_count": 238,
+        "subscribers_count": 1,
+        "watchers_count": 238
+    },
+    {
+        "clone_url": "https://github.com/Bahmni/openmrs-module-bahmniapps.git",
+        "full_name": "Bahmni/openmrs-module-bahmniapps",
+        "size": 27717,
+        "stargazers_count": 127,
+        "subscribers_count": 61,
+        "watchers_count": 127
+    },
+    {
+        "clone_url": "https://github.com/SAP/openui5.git",
+        "full_name": "SAP/openui5",
+        "size": 949644,
+        "stargazers_count": 2785,
+        "subscribers_count": 283,
+        "watchers_count": 2785
+    },
+    {
+        "clone_url": "https://github.com/LiveTL/LiveTL.git",
+        "full_name": "LiveTL/LiveTL",
+        "size": 59662,
+        "stargazers_count": 518,
+        "subscribers_count": 9,
+        "watchers_count": 518
+    },
+    {
+        "clone_url": "https://github.com/firewalla/firewalla.git",
+        "full_name": "firewalla/firewalla",
+        "size": 155949,
+        "stargazers_count": 505,
+        "subscribers_count": 48,
+        "watchers_count": 505
+    },
+    {
+        "clone_url": "https://github.com/maptalks/maptalks.js.git",
+        "full_name": "maptalks/maptalks.js",
+        "size": 15196,
+        "stargazers_count": 4102,
+        "subscribers_count": 151,
+        "watchers_count": 4102
+    },
+    {
+        "clone_url": "https://github.com/DIYgod/RSSHub.git",
+        "full_name": "DIYgod/RSSHub",
+        "size": 197407,
+        "stargazers_count": 26800,
+        "subscribers_count": 330,
+        "watchers_count": 26800
+    },
+    {
+        "clone_url": "https://github.com/telerik/kendo-ui-core.git",
+        "full_name": "telerik/kendo-ui-core",
+        "size": 463643,
+        "stargazers_count": 2502,
+        "subscribers_count": 193,
+        "watchers_count": 2502
+    },
+    {
+        "clone_url": "https://github.com/GoogleChrome/chrome-extensions-samples.git",
+        "full_name": "GoogleChrome/chrome-extensions-samples",
+        "size": 55310,
+        "stargazers_count": 13409,
+        "subscribers_count": 664,
+        "watchers_count": 13409
+    },
+    {
+        "clone_url": "https://github.com/nodejs/node.git",
+        "full_name": "nodejs/node",
+        "size": 1051899,
+        "stargazers_count": 99508,
+        "subscribers_count": 2908,
+        "watchers_count": 99508
+    },
+    {
+        "clone_url": "https://github.com/ymmooot/nuxt-jsonld.git",
+        "full_name": "ymmooot/nuxt-jsonld",
+        "size": 8898,
+        "stargazers_count": 284,
+        "subscribers_count": 2,
+        "watchers_count": 284
+    },
+    {
+        "clone_url": "https://github.com/projectdiscovery/nuclei-templates.git",
+        "full_name": "projectdiscovery/nuclei-templates",
+        "size": 95943,
+        "stargazers_count": 7316,
+        "subscribers_count": 191,
+        "watchers_count": 7316
+    },
+    {
+        "clone_url": "https://github.com/sitespeedio/sitespeed.io.git",
+        "full_name": "sitespeedio/sitespeed.io",
+        "size": 397518,
+        "stargazers_count": 4563,
+        "subscribers_count": 117,
+        "watchers_count": 4563
+    },
+    {
+        "clone_url": "https://github.com/highlightjs/highlight.js.git",
+        "full_name": "highlightjs/highlight.js",
+        "size": 14602,
+        "stargazers_count": 22395,
+        "subscribers_count": 307,
+        "watchers_count": 22395
+    },
+    {
+        "clone_url": "https://github.com/stdlib-js/stdlib.git",
+        "full_name": "stdlib-js/stdlib",
+        "size": 1853792,
+        "stargazers_count": 3517,
+        "subscribers_count": 54,
+        "watchers_count": 3517
+    },
+    {
+        "clone_url": "https://github.com/forwardemail/forwardemail.net.git",
+        "full_name": "forwardemail/forwardemail.net",
+        "size": 118388,
+        "stargazers_count": 654,
+        "subscribers_count": 9,
+        "watchers_count": 654
+    },
+    {
+        "clone_url": "https://github.com/MiEcosystem/miot-plugin-sdk.git",
+        "full_name": "MiEcosystem/miot-plugin-sdk",
+        "size": 672752,
+        "stargazers_count": 338,
+        "subscribers_count": 47,
+        "watchers_count": 338
+    },
+    {
+        "clone_url": "https://github.com/sunner/ChatALL.git",
+        "full_name": "sunner/ChatALL",
+        "size": 49709,
+        "stargazers_count": 11175,
+        "subscribers_count": 95,
+        "watchers_count": 11175
+    },
+    {
+        "clone_url": "https://github.com/gympass/yoga.git",
+        "full_name": "gympass/yoga",
+        "size": 248861,
+        "stargazers_count": 210,
+        "subscribers_count": 76,
+        "watchers_count": 210
+    },
+    {
+        "clone_url": "https://github.com/Significant-Gravitas/AutoGPT.git",
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "size": 103772,
+        "stargazers_count": 153674,
+        "subscribers_count": 1557,
+        "watchers_count": 153674
+    },
+    {
+        "clone_url": "https://github.com/mrdoob/three.js.git",
+        "full_name": "mrdoob/three.js",
+        "size": 1321759,
+        "stargazers_count": 95812,
+        "subscribers_count": 2557,
+        "watchers_count": 95812
+    },
+    {
+        "clone_url": "https://github.com/eslint/eslint.git",
+        "full_name": "eslint/eslint",
+        "size": 40492,
+        "stargazers_count": 23637,
+        "subscribers_count": 316,
+        "watchers_count": 23637
+    },
+    {
+        "clone_url": "https://github.com/Kong/insomnia.git",
+        "full_name": "Kong/insomnia",
+        "size": 122819,
+        "stargazers_count": 31214,
+        "subscribers_count": 238,
+        "watchers_count": 31214
+    },
+    {
+        "clone_url": "https://github.com/blackmatrix7/ios_rule_script.git",
+        "full_name": "blackmatrix7/ios_rule_script",
+        "size": 679056,
+        "stargazers_count": 12643,
+        "subscribers_count": 227,
+        "watchers_count": 12643
+    },
+    {
+        "clone_url": "https://github.com/sehugg/8bitworkshop.git",
+        "full_name": "sehugg/8bitworkshop",
+        "size": 73478,
+        "stargazers_count": 458,
+        "subscribers_count": 30,
+        "watchers_count": 458
+    },
+    {
+        "clone_url": "https://github.com/TeaOSLab/EdgeAdmin.git",
+        "full_name": "TeaOSLab/EdgeAdmin",
+        "size": 35680,
+        "stargazers_count": 806,
+        "subscribers_count": 11,
+        "watchers_count": 806
+    },
+    {
+        "clone_url": "https://github.com/nextcloud/text.git",
+        "full_name": "nextcloud/text",
+        "size": 1277952,
+        "stargazers_count": 458,
+        "subscribers_count": 12,
+        "watchers_count": 458
+    },
+    {
+        "clone_url": "https://github.com/zhw2590582/ArtPlayer.git",
+        "full_name": "zhw2590582/ArtPlayer",
+        "size": 324766,
+        "stargazers_count": 2071,
+        "subscribers_count": 20,
+        "watchers_count": 2071
+    },
+    {
+        "clone_url": "https://github.com/FreeTubeApp/FreeTube.git",
+        "full_name": "FreeTubeApp/FreeTube",
+        "size": 16954,
+        "stargazers_count": 9840,
+        "subscribers_count": 169,
+        "watchers_count": 9840
+    },
+    {
+        "clone_url": "https://github.com/WWBN/AVideo.git",
+        "full_name": "WWBN/AVideo",
+        "size": 446417,
+        "stargazers_count": 1785,
+        "subscribers_count": 122,
+        "watchers_count": 1785
+    },
+    {
+        "clone_url": "https://github.com/githubdulong/Script.git",
+        "full_name": "githubdulong/Script",
+        "size": 16081,
+        "stargazers_count": 678,
+        "subscribers_count": 9,
+        "watchers_count": 678
+    },
+    {
+        "clone_url": "https://github.com/nextcloud/photos.git",
+        "full_name": "nextcloud/photos",
+        "size": 438914,
+        "stargazers_count": 457,
+        "subscribers_count": 17,
+        "watchers_count": 457
+    },
+    {
+        "clone_url": "https://github.com/zqzess/rule_for_quantumultX.git",
+        "full_name": "zqzess/rule_for_quantumultX",
+        "size": 130201,
+        "stargazers_count": 1497,
+        "subscribers_count": 24,
+        "watchers_count": 1497
+    },
+    {
+        "clone_url": "https://github.com/eryajf/eryajf.github.io.git",
+        "full_name": "eryajf/eryajf.github.io",
+        "size": 486091,
+        "stargazers_count": 240,
+        "subscribers_count": 10,
+        "watchers_count": 240
+    },
+    {
+        "clone_url": "https://github.com/nextcloud/mail.git",
+        "full_name": "nextcloud/mail",
+        "size": 153688,
+        "stargazers_count": 755,
+        "subscribers_count": 48,
+        "watchers_count": 755
+    },
+    {
+        "clone_url": "https://github.com/serverless-heaven/serverless-webpack.git",
+        "full_name": "serverless-heaven/serverless-webpack",
+        "size": 16947,
+        "stargazers_count": 1717,
+        "subscribers_count": 31,
+        "watchers_count": 1717
+    },
+    {
+        "clone_url": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable.git",
+        "full_name": "OpenZeppelin/openzeppelin-contracts-upgradeable",
+        "size": 28021,
+        "stargazers_count": 899,
+        "subscribers_count": 39,
+        "watchers_count": 899
+    },
+    {
+        "clone_url": "https://github.com/geodienst/lighthousemap.git",
+        "full_name": "geodienst/lighthousemap",
+        "size": 103528,
+        "stargazers_count": 279,
+        "subscribers_count": 10,
+        "watchers_count": 279
+    },
+    {
+        "clone_url": "https://github.com/camunda/camunda-modeler.git",
+        "full_name": "camunda/camunda-modeler",
+        "size": 43279,
+        "stargazers_count": 1355,
+        "subscribers_count": 75,
+        "watchers_count": 1355
+    },
+    {
+        "clone_url": "https://github.com/lutzroeder/netron.git",
+        "full_name": "lutzroeder/netron",
+        "size": 48999,
+        "stargazers_count": 24556,
+        "subscribers_count": 298,
+        "watchers_count": 24556
+    },
+    {
+        "clone_url": "https://github.com/BlueWallet/BlueWallet.git",
+        "full_name": "BlueWallet/BlueWallet",
+        "size": 121289,
+        "stargazers_count": 2198,
+        "subscribers_count": 77,
+        "watchers_count": 2198
+    },
+    {
+        "clone_url": "https://github.com/xOS/Config.git",
+        "full_name": "xOS/Config",
+        "size": 943661,
+        "stargazers_count": 146,
+        "subscribers_count": 3,
+        "watchers_count": 146
+    },
+    {
+        "clone_url": "https://github.com/nextcloud/calendar.git",
+        "full_name": "nextcloud/calendar",
+        "size": 94927,
+        "stargazers_count": 885,
+        "subscribers_count": 56,
+        "watchers_count": 885
+    },
+    {
+        "clone_url": "https://github.com/Readme-Workflows/recent-activity.git",
+        "full_name": "Readme-Workflows/recent-activity",
+        "size": 24016,
+        "stargazers_count": 117,
+        "subscribers_count": 2,
+        "watchers_count": 117
+    },
+    {
+        "clone_url": "https://github.com/ethereum/solc-bin.git",
+        "full_name": "ethereum/solc-bin",
+        "size": 5972684,
+        "stargazers_count": 368,
+        "subscribers_count": 30,
+        "watchers_count": 368
+    },
+    {
+        "clone_url": "https://github.com/icerockdev/libs.kmp.icerock.dev.git",
+        "full_name": "icerockdev/libs.kmp.icerock.dev",
+        "size": 16791,
+        "stargazers_count": 215,
+        "subscribers_count": 19,
+        "watchers_count": 215
+    },
+    {
+        "clone_url": "https://github.com/nextcloud/spreed.git",
+        "full_name": "nextcloud/spreed",
+        "size": 336528,
+        "stargazers_count": 1483,
+        "subscribers_count": 69,
+        "watchers_count": 1483
+    },
+    {
+        "clone_url": "https://github.com/meshery/meshery.io.git",
+        "full_name": "meshery/meshery.io",
+        "size": 225173,
+        "stargazers_count": 390,
+        "subscribers_count": 18,
+        "watchers_count": 390
+    },
+    {
+        "clone_url": "https://github.com/windmill-labs/windmill.git",
+        "full_name": "windmill-labs/windmill",
+        "size": 95953,
+        "stargazers_count": 6582,
+        "subscribers_count": 29,
+        "watchers_count": 6582
+    },
+    {
+        "clone_url": "https://github.com/idurar/idurar-erp-crm.git",
+        "full_name": "idurar/idurar-erp-crm",
+        "size": 23624,
+        "stargazers_count": 3888,
+        "subscribers_count": 33,
+        "watchers_count": 3888
+    },
+    {
+        "clone_url": "https://github.com/contentful/contentful-cli.git",
+        "full_name": "contentful/contentful-cli",
+        "size": 126092,
+        "stargazers_count": 306,
+        "subscribers_count": 71,
+        "watchers_count": 306
+    },
+    {
+        "clone_url": "https://github.com/w3f/polkadot-wiki.git",
+        "full_name": "w3f/polkadot-wiki",
+        "size": 439082,
+        "stargazers_count": 320,
+        "subscribers_count": 24,
+        "watchers_count": 320
+    },
+    {
+        "clone_url": "https://github.com/gatsbyjs/gatsby.git",
+        "full_name": "gatsbyjs/gatsby",
+        "size": 1131878,
+        "stargazers_count": 54814,
+        "subscribers_count": 748,
+        "watchers_count": 54814
+    },
+    {
+        "clone_url": "https://github.com/iptv-org/iptv.git",
+        "full_name": "iptv-org/iptv",
+        "size": 392555,
+        "stargazers_count": 71328,
+        "subscribers_count": 1793,
+        "watchers_count": 71328
+    },
+    {
+        "clone_url": "https://github.com/brave/brave-browser.git",
+        "full_name": "brave/brave-browser",
+        "size": 23578,
+        "stargazers_count": 15970,
+        "subscribers_count": 378,
+        "watchers_count": 15970
+    },
+    {
+        "clone_url": "https://github.com/sequelize/sequelize.git",
+        "full_name": "sequelize/sequelize",
+        "size": 53955,
+        "stargazers_count": 28611,
+        "subscribers_count": 418,
+        "watchers_count": 28611
+    },
+    {
+        "clone_url": "https://github.com/metriport/metriport.git",
+        "full_name": "metriport/metriport",
+        "size": 435257,
+        "stargazers_count": 314,
+        "subscribers_count": 6,
+        "watchers_count": 314
+    },
+    {
+        "clone_url": "https://github.com/w3f/Grants-Program.git",
+        "full_name": "w3f/Grants-Program",
+        "size": 435541,
+        "stargazers_count": 891,
+        "subscribers_count": 51,
+        "watchers_count": 891
+    },
+    {
+        "clone_url": "https://github.com/zadam/trilium.git",
+        "full_name": "zadam/trilium",
+        "size": 136093,
+        "stargazers_count": 23433,
+        "subscribers_count": 256,
+        "watchers_count": 23433
+    },
+    {
+        "clone_url": "https://github.com/ipfs/ipfs-desktop.git",
+        "full_name": "ipfs/ipfs-desktop",
+        "size": 17875,
+        "stargazers_count": 5588,
+        "subscribers_count": 189,
+        "watchers_count": 5588
+    },
+    {
+        "clone_url": "https://github.com/Pythagora-io/pythagora.git",
+        "full_name": "Pythagora-io/pythagora",
+        "size": 21870,
+        "stargazers_count": 1322,
+        "subscribers_count": 12,
+        "watchers_count": 1322
+    },
+    {
+        "clone_url": "https://github.com/heroaku/TVboxo.git",
+        "full_name": "heroaku/TVboxo",
+        "size": 88674,
+        "stargazers_count": 508,
+        "subscribers_count": 15,
+        "watchers_count": 508
+    },
+    {
+        "clone_url": "https://github.com/ViewComponent/lookbook.git",
+        "full_name": "ViewComponent/lookbook",
+        "size": 54408,
+        "stargazers_count": 727,
+        "subscribers_count": 7,
+        "watchers_count": 727
+    },
+    {
+        "clone_url": "https://github.com/AltimateAI/vscode-dbt-power-user.git",
+        "full_name": "AltimateAI/vscode-dbt-power-user",
+        "size": 30822,
+        "stargazers_count": 303,
+        "subscribers_count": 11,
+        "watchers_count": 303
+    },
+    {
+        "clone_url": "https://github.com/github/docs.git",
+        "full_name": "github/docs",
+        "size": 1843217,
+        "stargazers_count": 14944,
+        "subscribers_count": 2345,
+        "watchers_count": 14944
+    },
+    {
+        "clone_url": "https://github.com/walinejs/waline.git",
+        "full_name": "walinejs/waline",
+        "size": 56074,
+        "stargazers_count": 1744,
+        "subscribers_count": 12,
+        "watchers_count": 1744
+    },
+    {
+        "clone_url": "https://github.com/osmlab/name-suggestion-index.git",
+        "full_name": "osmlab/name-suggestion-index",
+        "size": 717617,
+        "stargazers_count": 606,
+        "subscribers_count": 39,
+        "watchers_count": 606
+    },
+    {
+        "clone_url": "https://github.com/artilleryio/artillery.git",
+        "full_name": "artilleryio/artillery",
+        "size": 42792,
+        "stargazers_count": 7085,
+        "subscribers_count": 66,
+        "watchers_count": 7085
+    },
+    {
+        "clone_url": "https://github.com/WebGoat/WebGoat.git",
+        "full_name": "WebGoat/WebGoat",
+        "size": 103407,
+        "stargazers_count": 6066,
+        "subscribers_count": 206,
+        "watchers_count": 6066
+    },
+    {
+        "clone_url": "https://github.com/Keywos/rule.git",
+        "full_name": "Keywos/rule",
+        "size": 19468,
+        "stargazers_count": 178,
+        "subscribers_count": 4,
+        "watchers_count": 178
+    },
+    {
+        "clone_url": "https://github.com/niivue/niivue.git",
+        "full_name": "niivue/niivue",
+        "size": 311768,
+        "stargazers_count": 167,
+        "subscribers_count": 8,
+        "watchers_count": 167
+    },
+    {
+        "clone_url": "https://github.com/ember-bootstrap/ember-bootstrap.git",
+        "full_name": "ember-bootstrap/ember-bootstrap",
+        "size": 38442,
+        "stargazers_count": 493,
+        "subscribers_count": 17,
+        "watchers_count": 493
+    },
+    {
+        "clone_url": "https://github.com/prettier/prettier.git",
+        "full_name": "prettier/prettier",
+        "size": 114014,
+        "stargazers_count": 47278,
+        "subscribers_count": 418,
+        "watchers_count": 47278
+    },
+    {
+        "clone_url": "https://github.com/IgorKowalczyk/majo.exe.git",
+        "full_name": "IgorKowalczyk/majo.exe",
+        "size": 49633,
+        "stargazers_count": 212,
+        "subscribers_count": 6,
+        "watchers_count": 212
+    },
+    {
+        "clone_url": "https://github.com/nextcloud/activity.git",
+        "full_name": "nextcloud/activity",
+        "size": 138700,
+        "stargazers_count": 106,
+        "subscribers_count": 19,
+        "watchers_count": 106
+    },
+    {
+        "clone_url": "https://github.com/stephanrauh/ngx-extended-pdf-viewer.git",
+        "full_name": "stephanrauh/ngx-extended-pdf-viewer",
+        "size": 521372,
+        "stargazers_count": 382,
+        "subscribers_count": 10,
+        "watchers_count": 382
+    },
+    {
+        "clone_url": "https://github.com/espresso-cash/espresso-cash-public.git",
+        "full_name": "espresso-cash/espresso-cash-public",
+        "size": 56100,
+        "stargazers_count": 216,
+        "subscribers_count": 11,
+        "watchers_count": 216
+    },
+    {
+        "clone_url": "https://github.com/basnijholt/home-assistant-config.git",
+        "full_name": "basnijholt/home-assistant-config",
+        "size": 24256,
+        "stargazers_count": 1554,
+        "subscribers_count": 81,
+        "watchers_count": 1554
+    },
+    {
+        "clone_url": "https://github.com/tc39/agendas.git",
+        "full_name": "tc39/agendas",
+        "size": 51999,
+        "stargazers_count": 970,
+        "subscribers_count": 351,
+        "watchers_count": 970
+    },
+    {
+        "clone_url": "https://github.com/facebook/lexical.git",
+        "full_name": "facebook/lexical",
+        "size": 38085,
+        "stargazers_count": 16050,
+        "subscribers_count": 104,
+        "watchers_count": 16050
+    },
+    {
+        "clone_url": "https://github.com/vueform/vueform.git",
+        "full_name": "vueform/vueform",
+        "size": 18765,
+        "stargazers_count": 442,
+        "subscribers_count": 3,
+        "watchers_count": 442
+    },
+    {
+        "clone_url": "https://github.com/TerosTechnology/vscode-terosHDL.git",
+        "full_name": "TerosTechnology/vscode-terosHDL",
+        "size": 89249,
+        "stargazers_count": 444,
+        "subscribers_count": 21,
+        "watchers_count": 444
+    },
+    {
+        "clone_url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF.git",
+        "full_name": "MobSF/Mobile-Security-Framework-MobSF",
+        "size": 1347552,
+        "stargazers_count": 15259,
+        "subscribers_count": 564,
+        "watchers_count": 15259
+    },
+    {
+        "clone_url": "https://github.com/louislam/uptime-kuma.git",
+        "full_name": "louislam/uptime-kuma",
+        "size": 22311,
+        "stargazers_count": 41559,
+        "subscribers_count": 239,
+        "watchers_count": 41559
+    },
+    {
+        "clone_url": "https://github.com/umap-project/umap.git",
+        "full_name": "umap-project/umap",
+        "size": 16349,
+        "stargazers_count": 894,
+        "subscribers_count": 55,
+        "watchers_count": 894
+    },
+    {
+        "clone_url": "https://github.com/zachleat/zachleat.com.git",
+        "full_name": "zachleat/zachleat.com",
+        "size": 274663,
+        "stargazers_count": 170,
+        "subscribers_count": 12,
+        "watchers_count": 170
+    },
+    {
+        "clone_url": "https://github.com/openlayers/ol-mapbox-style.git",
+        "full_name": "openlayers/ol-mapbox-style",
+        "size": 50777,
+        "stargazers_count": 308,
+        "subscribers_count": 36,
+        "watchers_count": 308
+    },
+    {
+        "clone_url": "https://github.com/gethomepage/homepage.git",
+        "full_name": "gethomepage/homepage",
+        "size": 21307,
+        "stargazers_count": 11045,
+        "subscribers_count": 54,
+        "watchers_count": 11045
+    },
+    {
+        "clone_url": "https://github.com/ioBroker/ioBroker.admin.git",
+        "full_name": "ioBroker/ioBroker.admin",
+        "size": 41293,
+        "stargazers_count": 264,
+        "subscribers_count": 30,
+        "watchers_count": 264
+    },
+    {
+        "clone_url": "https://github.com/CDrummond/lms-material.git",
+        "full_name": "CDrummond/lms-material",
+        "size": 30628,
+        "stargazers_count": 279,
+        "subscribers_count": 21,
+        "watchers_count": 279
+    },
+    {
+        "clone_url": "https://github.com/plotly/plotly.js.git",
+        "full_name": "plotly/plotly.js",
+        "size": 1402237,
+        "stargazers_count": 16134,
+        "subscribers_count": 284,
+        "watchers_count": 16134
+    },
+    {
+        "clone_url": "https://github.com/LDAPAccountManager/lam.git",
+        "full_name": "LDAPAccountManager/lam",
+        "size": 186831,
+        "stargazers_count": 389,
+        "subscribers_count": 15,
+        "watchers_count": 389
+    },
+    {
+        "clone_url": "https://github.com/spring-petclinic/spring-petclinic-graphql.git",
+        "full_name": "spring-petclinic/spring-petclinic-graphql",
+        "size": 14913,
+        "stargazers_count": 200,
+        "subscribers_count": 17,
+        "watchers_count": 200
+    },
+    {
+        "clone_url": "https://github.com/fgl27/SmartTwitchTV.git",
+        "full_name": "fgl27/SmartTwitchTV",
+        "size": 401920,
+        "stargazers_count": 299,
+        "subscribers_count": 9,
+        "watchers_count": 299
+    },
+    {
+        "clone_url": "https://github.com/codesandbox/codesandbox-client.git",
+        "full_name": "codesandbox/codesandbox-client",
+        "size": 796553,
+        "stargazers_count": 12693,
+        "subscribers_count": 187,
+        "watchers_count": 12693
+    },
+    {
+        "clone_url": "https://github.com/4ian/GDevelop.git",
+        "full_name": "4ian/GDevelop",
+        "size": 584918,
+        "stargazers_count": 5452,
+        "subscribers_count": 161,
+        "watchers_count": 5452
+    },
+    {
+        "clone_url": "https://github.com/EddieHubCommunity/BioDrop.git",
+        "full_name": "EddieHubCommunity/BioDrop",
+        "size": 64705,
+        "stargazers_count": 5391,
+        "subscribers_count": 56,
+        "watchers_count": 5391
+    },
+    {
+        "clone_url": "https://github.com/jsdoc/jsdoc.git",
+        "full_name": "jsdoc/jsdoc",
+        "size": 25612,
+        "stargazers_count": 14400,
+        "subscribers_count": 270,
+        "watchers_count": 14400
+    },
+    {
+        "clone_url": "https://github.com/rolling-scopes-school/tasks.git",
+        "full_name": "rolling-scopes-school/tasks",
+        "size": 182936,
+        "stargazers_count": 3255,
+        "subscribers_count": 136,
+        "watchers_count": 3255
+    },
+    {
+        "clone_url": "https://github.com/newsuk/times-components.git",
+        "full_name": "newsuk/times-components",
+        "size": 390153,
+        "stargazers_count": 257,
+        "subscribers_count": 69,
+        "watchers_count": 257
+    },
+    {
+        "clone_url": "https://github.com/emilianog94/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos.git",
+        "full_name": "emilianog94/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos",
+        "size": 17242,
+        "stargazers_count": 214,
+        "subscribers_count": 2,
+        "watchers_count": 214
+    },
+    {
+        "clone_url": "https://github.com/jellyfin/jellyfin-web.git",
+        "full_name": "jellyfin/jellyfin-web",
+        "size": 132762,
+        "stargazers_count": 1632,
+        "subscribers_count": 41,
+        "watchers_count": 1632
+    },
+    {
+        "clone_url": "https://github.com/DataDog/documentation.git",
+        "full_name": "DataDog/documentation",
+        "size": 3642164,
+        "stargazers_count": 313,
+        "subscribers_count": 564,
+        "watchers_count": 313
+    },
+    {
+        "clone_url": "https://github.com/facebook/react.git",
+        "full_name": "facebook/react",
+        "size": 364239,
+        "stargazers_count": 215569,
+        "subscribers_count": 6649,
+        "watchers_count": 215569
+    },
+    {
+        "clone_url": "https://github.com/ava-labs/avalanche-docs.git",
+        "full_name": "ava-labs/avalanche-docs",
+        "size": 577329,
+        "stargazers_count": 141,
+        "subscribers_count": 34,
+        "watchers_count": 141
+    },
+    {
+        "clone_url": "https://github.com/Chalarangelo/30-seconds-of-code.git",
+        "full_name": "Chalarangelo/30-seconds-of-code",
+        "size": 619551,
+        "stargazers_count": 116616,
+        "subscribers_count": 2557,
+        "watchers_count": 116616
+    },
+    {
+        "clone_url": "https://github.com/davidmerfield/Blot.git",
+        "full_name": "davidmerfield/Blot",
+        "size": 3306626,
+        "stargazers_count": 1288,
+        "subscribers_count": 27,
+        "watchers_count": 1288
+    },
+    {
+        "clone_url": "https://github.com/Cay-Zhang/RSSBud.git",
+        "full_name": "Cay-Zhang/RSSBud",
+        "size": 38238,
+        "stargazers_count": 1024,
+        "subscribers_count": 35,
+        "watchers_count": 1024
+    },
+    {
+        "clone_url": "https://github.com/ipfs/ipfs-webui.git",
+        "full_name": "ipfs/ipfs-webui",
+        "size": 48398,
+        "stargazers_count": 1483,
+        "subscribers_count": 95,
+        "watchers_count": 1483
+    },
+    {
+        "clone_url": "https://github.com/leafTheFish/DeathNote.git",
+        "full_name": "leafTheFish/DeathNote",
+        "size": 15834,
+        "stargazers_count": 1974,
+        "subscribers_count": 47,
+        "watchers_count": 1974
+    },
+    {
+        "clone_url": "https://github.com/mozilla/hubs.git",
+        "full_name": "mozilla/hubs",
+        "size": 229599,
+        "stargazers_count": 2050,
+        "subscribers_count": 94,
+        "watchers_count": 2050
+    },
+    {
+        "clone_url": "https://github.com/huasenjio/huasenjio-compose.git",
+        "full_name": "huasenjio/huasenjio-compose",
+        "size": 102392,
+        "stargazers_count": 363,
+        "subscribers_count": 5,
+        "watchers_count": 363
+    },
+    {
+        "clone_url": "https://github.com/TryGhost/Koenig.git",
+        "full_name": "TryGhost/Koenig",
+        "size": 454541,
+        "stargazers_count": 121,
+        "subscribers_count": 13,
+        "watchers_count": 121
+    },
+    {
+        "clone_url": "https://github.com/ivmartel/dwv.git",
+        "full_name": "ivmartel/dwv",
+        "size": 124005,
+        "stargazers_count": 1531,
+        "subscribers_count": 104,
+        "watchers_count": 1531
+    },
+    {
+        "clone_url": "https://github.com/miroslavpejic85/mirotalksfu.git",
+        "full_name": "miroslavpejic85/mirotalksfu",
+        "size": 12267,
+        "stargazers_count": 1453,
+        "subscribers_count": 21,
+        "watchers_count": 1453
+    },
+    {
+        "clone_url": "https://github.com/GTNewHorizons/GT-New-Horizons-Modpack.git",
+        "full_name": "GTNewHorizons/GT-New-Horizons-Modpack",
+        "size": 425463,
+        "stargazers_count": 698,
+        "subscribers_count": 58,
+        "watchers_count": 698
+    },
+    {
+        "clone_url": "https://github.com/Automattic/mongoose.git",
+        "full_name": "Automattic/mongoose",
+        "size": 117138,
+        "stargazers_count": 26197,
+        "subscribers_count": 491,
+        "watchers_count": 26197
+    },
+    {
+        "clone_url": "https://github.com/1024pix/pix.git",
+        "full_name": "1024pix/pix",
+        "size": 571371,
+        "stargazers_count": 217,
+        "subscribers_count": 27,
+        "watchers_count": 217
+    },
+    {
+        "clone_url": "https://github.com/yoimiya-kokomi/Miao-Yunzai.git",
+        "full_name": "yoimiya-kokomi/Miao-Yunzai",
+        "size": 51858,
+        "stargazers_count": 626,
+        "subscribers_count": 11,
+        "watchers_count": 626
+    },
+    {
+        "clone_url": "https://github.com/apache/cordova-docs.git",
+        "full_name": "apache/cordova-docs",
+        "size": 227180,
+        "stargazers_count": 348,
+        "subscribers_count": 52,
+        "watchers_count": 348
+    },
+    {
+        "clone_url": "https://github.com/clientIO/joint.git",
+        "full_name": "clientIO/joint",
+        "size": 47552,
+        "stargazers_count": 4157,
+        "subscribers_count": 154,
+        "watchers_count": 4157
+    },
+    {
+        "clone_url": "https://github.com/geosolutions-it/MapStore2.git",
+        "full_name": "geosolutions-it/MapStore2",
+        "size": 606230,
+        "stargazers_count": 434,
+        "subscribers_count": 36,
+        "watchers_count": 434
+    },
+    {
+        "clone_url": "https://github.com/cs0x7f/cstimer.git",
+        "full_name": "cs0x7f/cstimer",
+        "size": 17968,
+        "stargazers_count": 466,
+        "subscribers_count": 25,
+        "watchers_count": 466
+    },
+    {
+        "clone_url": "https://github.com/meteor/meteor.git",
+        "full_name": "meteor/meteor",
+        "size": 122539,
+        "stargazers_count": 43853,
+        "subscribers_count": 1572,
+        "watchers_count": 43853
+    },
+    {
+        "clone_url": "https://github.com/medic/cht-core.git",
+        "full_name": "medic/cht-core",
+        "size": 151590,
+        "stargazers_count": 424,
+        "subscribers_count": 54,
+        "watchers_count": 424
+    },
+    {
+        "clone_url": "https://github.com/elementor/elementor.git",
+        "full_name": "elementor/elementor",
+        "size": 177014,
+        "stargazers_count": 5901,
+        "subscribers_count": 232,
+        "watchers_count": 5901
+    },
+    {
+        "clone_url": "https://github.com/cypress-io/cypress.git",
+        "full_name": "cypress-io/cypress",
+        "size": 684712,
+        "stargazers_count": 45228,
+        "subscribers_count": 623,
+        "watchers_count": 45228
+    },
+    {
+        "clone_url": "https://github.com/ZhangXusen/XS-UI.git",
+        "full_name": "ZhangXusen/XS-UI",
+        "size": 10123,
+        "stargazers_count": 111,
+        "subscribers_count": 1,
+        "watchers_count": 111
+    },
+    {
+        "clone_url": "https://github.com/mozilla/pdf.js.git",
+        "full_name": "mozilla/pdf.js",
+        "size": 133678,
+        "stargazers_count": 44517,
+        "subscribers_count": 1106,
+        "watchers_count": 44517
+    },
+    {
+        "clone_url": "https://github.com/hobuinc/usgs-lidar.git",
+        "full_name": "hobuinc/usgs-lidar",
+        "size": 392791,
+        "stargazers_count": 121,
+        "subscribers_count": 16,
+        "watchers_count": 121
+    },
+    {
+        "clone_url": "https://github.com/openwrt/luci.git",
+        "full_name": "openwrt/luci",
+        "size": 376733,
+        "stargazers_count": 5581,
+        "subscribers_count": 255,
+        "watchers_count": 5581
+    },
+    {
+        "clone_url": "https://github.com/isno/theByteBook.git",
+        "full_name": "isno/theByteBook",
+        "size": 100362,
+        "stargazers_count": 4671,
+        "subscribers_count": 39,
+        "watchers_count": 4671
+    },
+    {
+        "clone_url": "https://github.com/yazz/yazz.git",
+        "full_name": "yazz/yazz",
+        "size": 104401,
+        "stargazers_count": 521,
+        "subscribers_count": 25,
+        "watchers_count": 521
+    },
+    {
+        "clone_url": "https://github.com/KhronosGroup/glTF-Sample-Viewer.git",
+        "full_name": "KhronosGroup/glTF-Sample-Viewer",
+        "size": 897666,
+        "stargazers_count": 1145,
+        "subscribers_count": 61,
+        "watchers_count": 1145
+    },
+    {
+        "clone_url": "https://github.com/3liz/lizmap-web-client.git",
+        "full_name": "3liz/lizmap-web-client",
+        "size": 55006,
+        "stargazers_count": 233,
+        "subscribers_count": 43,
+        "watchers_count": 233
+    },
+    {
+        "clone_url": "https://github.com/medic/cht-core.git",
+        "full_name": "medic/cht-core",
+        "size": 151590,
+        "stargazers_count": 424,
+        "subscribers_count": 54,
+        "watchers_count": 424
+    },
+    {
+        "clone_url": "https://github.com/elementor/elementor.git",
+        "full_name": "elementor/elementor",
+        "size": 177014,
+        "stargazers_count": 5901,
+        "subscribers_count": 232,
+        "watchers_count": 5901
+    },
+    {
+        "clone_url": "https://github.com/cypress-io/cypress.git",
+        "full_name": "cypress-io/cypress",
+        "size": 684712,
+        "stargazers_count": 45228,
+        "subscribers_count": 623,
+        "watchers_count": 45228
+    },
+    {
+        "clone_url": "https://github.com/ZhangXusen/XS-UI.git",
+        "full_name": "ZhangXusen/XS-UI",
+        "size": 10123,
+        "stargazers_count": 111,
+        "subscribers_count": 1,
+        "watchers_count": 111
+    },
+    {
+        "clone_url": "https://github.com/mozilla/pdf.js.git",
+        "full_name": "mozilla/pdf.js",
+        "size": 133678,
+        "stargazers_count": 44517,
+        "subscribers_count": 1106,
+        "watchers_count": 44517
+    },
+    {
+        "clone_url": "https://github.com/hobuinc/usgs-lidar.git",
+        "full_name": "hobuinc/usgs-lidar",
+        "size": 392791,
+        "stargazers_count": 121,
+        "subscribers_count": 16,
+        "watchers_count": 121
+    },
+    {
+        "clone_url": "https://github.com/openwrt/luci.git",
+        "full_name": "openwrt/luci",
+        "size": 376733,
+        "stargazers_count": 5581,
+        "subscribers_count": 255,
+        "watchers_count": 5581
+    },
+    {
+        "clone_url": "https://github.com/isno/theByteBook.git",
+        "full_name": "isno/theByteBook",
+        "size": 100362,
+        "stargazers_count": 4671,
+        "subscribers_count": 39,
+        "watchers_count": 4671
+    },
+    {
+        "clone_url": "https://github.com/bedrockio/bedrock-core.git",
+        "full_name": "bedrockio/bedrock-core",
+        "size": 12139,
+        "stargazers_count": 196,
+        "subscribers_count": 10,
+        "watchers_count": 196
+    },
+    {
+        "clone_url": "https://github.com/cytoscape/cytoscape.js.git",
+        "full_name": "cytoscape/cytoscape.js",
+        "size": 72374,
+        "stargazers_count": 9447,
+        "subscribers_count": 229,
+        "watchers_count": 9447
+    },
+    {
+        "clone_url": "https://github.com/ajaxorg/ace.git",
+        "full_name": "ajaxorg/ace",
+        "size": 42392,
+        "stargazers_count": 26037,
+        "subscribers_count": 617,
+        "watchers_count": 26037
+    },
+    {
+        "clone_url": "https://github.com/react-navigation/react-navigation.github.io.git",
+        "full_name": "react-navigation/react-navigation.github.io",
+        "size": 244024,
+        "stargazers_count": 304,
+        "subscribers_count": 9,
+        "watchers_count": 304
+    },
+    {
+        "clone_url": "https://github.com/cx20/gltf-test.git",
+        "full_name": "cx20/gltf-test",
+        "size": 2008515,
+        "stargazers_count": 320,
+        "subscribers_count": 13,
+        "watchers_count": 320
+    },
+    {
+        "clone_url": "https://github.com/Tencent/cherry-markdown.git",
+        "full_name": "Tencent/cherry-markdown",
+        "size": 122862,
+        "stargazers_count": 2962,
+        "subscribers_count": 41,
+        "watchers_count": 2962
+    },
+    {
+        "clone_url": "https://github.com/kaansoral/adventureland.git",
+        "full_name": "kaansoral/adventureland",
+        "size": 140893,
+        "stargazers_count": 153,
+        "subscribers_count": 18,
+        "watchers_count": 153
+    },
+    {
+        "clone_url": "https://github.com/5etools-mirror-1/5etools-mirror-1.github.io.git",
+        "full_name": "5etools-mirror-1/5etools-mirror-1.github.io",
+        "size": 7385397,
+        "stargazers_count": 622,
+        "subscribers_count": 39,
+        "watchers_count": 622
+    },
+    {
+        "clone_url": "https://github.com/zloirock/core-js.git",
+        "full_name": "zloirock/core-js",
+        "size": 45411,
+        "stargazers_count": 23235,
+        "subscribers_count": 253,
+        "watchers_count": 23235
+    },
+    {
+        "clone_url": "https://github.com/ing-bank/lion.git",
+        "full_name": "ing-bank/lion",
+        "size": 59863,
+        "stargazers_count": 1627,
+        "subscribers_count": 33,
+        "watchers_count": 1627
+    },
+    {
+        "clone_url": "https://github.com/espruino/EspruinoWebIDE.git",
+        "full_name": "espruino/EspruinoWebIDE",
+        "size": 17806,
+        "stargazers_count": 358,
+        "subscribers_count": 38,
+        "watchers_count": 358
+    },
+    {
+        "clone_url": "https://github.com/jeanropke/RDR2CollectorsMap.git",
+        "full_name": "jeanropke/RDR2CollectorsMap",
+        "size": 286984,
+        "stargazers_count": 521,
+        "subscribers_count": 68,
+        "watchers_count": 521
+    },
+    {
+        "clone_url": "https://github.com/jaegertracing/jaeger-ui.git",
+        "full_name": "jaegertracing/jaeger-ui",
+        "size": 12257,
+        "stargazers_count": 998,
+        "subscribers_count": 1040,
+        "watchers_count": 998
+    },
+    {
+        "clone_url": "https://github.com/lipengjun92/platform-wxshop.git",
+        "full_name": "lipengjun92/platform-wxshop",
+        "size": 79933,
+        "stargazers_count": 296,
+        "subscribers_count": 29,
+        "watchers_count": 296
+    },
+    {
+        "clone_url": "https://github.com/google-github-actions/release-please-action.git",
+        "full_name": "google-github-actions/release-please-action",
+        "size": 20168,
+        "stargazers_count": 1177,
+        "subscribers_count": 14,
+        "watchers_count": 1177
+    },
+    {
+        "clone_url": "https://github.com/Dygmalab/Bazecor.git",
+        "full_name": "Dygmalab/Bazecor",
+        "size": 58688,
+        "stargazers_count": 290,
+        "subscribers_count": 14,
+        "watchers_count": 290
+    },
+    {
+        "clone_url": "https://github.com/openupm/openupm.git",
+        "full_name": "openupm/openupm",
+        "size": 15989,
+        "stargazers_count": 1366,
+        "subscribers_count": 8,
+        "watchers_count": 1366
+    },
+    {
+        "clone_url": "https://github.com/openstyles/stylus.git",
+        "full_name": "openstyles/stylus",
+        "size": 17695,
+        "stargazers_count": 4850,
+        "subscribers_count": 90,
+        "watchers_count": 4850
+    },
+    {
+        "clone_url": "https://github.com/fmz200/wool_scripts.git",
+        "full_name": "fmz200/wool_scripts",
+        "size": 83880,
+        "stargazers_count": 976,
+        "subscribers_count": 18,
+        "watchers_count": 976
+    },
+    {
+        "clone_url": "https://github.com/LavaMoat/LavaMoat.git",
+        "full_name": "LavaMoat/LavaMoat",
+        "size": 199084,
+        "stargazers_count": 744,
+        "subscribers_count": 21,
+        "watchers_count": 744
+    },
+    {
+        "clone_url": "https://github.com/cboard-org/cboard.git",
+        "full_name": "cboard-org/cboard",
+        "size": 216502,
+        "stargazers_count": 616,
+        "subscribers_count": 21,
+        "watchers_count": 616
+    },
+    {
+        "clone_url": "https://github.com/cryptee/web-client.git",
+        "full_name": "cryptee/web-client",
+        "size": 248930,
+        "stargazers_count": 398,
+        "subscribers_count": 13,
+        "watchers_count": 398
+    },
+    {
+        "clone_url": "https://github.com/playcanvas/engine.git",
+        "full_name": "playcanvas/engine",
+        "size": 204639,
+        "stargazers_count": 8769,
+        "subscribers_count": 316,
+        "watchers_count": 8769
+    },
+    {
+        "clone_url": "https://github.com/openedx/paragon.git",
+        "full_name": "openedx/paragon",
+        "size": 332014,
+        "stargazers_count": 108,
+        "subscribers_count": 78,
+        "watchers_count": 108
+    },
+    {
+        "clone_url": "https://github.com/obgnail/typora_plugin.git",
+        "full_name": "obgnail/typora_plugin",
+        "size": 37536,
+        "stargazers_count": 617,
+        "subscribers_count": 3,
+        "watchers_count": 617
+    },
+    {
+        "clone_url": "https://github.com/smartnews-smri/house-of-representatives.git",
+        "full_name": "smartnews-smri/house-of-representatives",
+        "size": 152430,
+        "stargazers_count": 161,
+        "subscribers_count": 2,
+        "watchers_count": 161
+    },
+    {
+        "clone_url": "https://github.com/spamegg1/reviews.git",
+        "full_name": "spamegg1/reviews",
+        "size": 1310839,
+        "stargazers_count": 234,
+        "subscribers_count": 13,
+        "watchers_count": 234
+    },
+    {
+        "clone_url": "https://github.com/codeceptjs/CodeceptJS.git",
+        "full_name": "codeceptjs/CodeceptJS",
+        "size": 56037,
+        "stargazers_count": 3980,
+        "subscribers_count": 106,
+        "watchers_count": 3980
+    },
+    {
+        "clone_url": "https://github.com/teeteeteeteetee/adobe-discord-rpc.git",
+        "full_name": "teeteeteeteetee/adobe-discord-rpc",
+        "size": 57024,
+        "stargazers_count": 472,
+        "subscribers_count": 13,
+        "watchers_count": 472
+    },
+    {
+        "clone_url": "https://github.com/its-a-feature/Mythic.git",
+        "full_name": "its-a-feature/Mythic",
+        "size": 336391,
+        "stargazers_count": 2582,
+        "subscribers_count": 64,
+        "watchers_count": 2582
+    },
+    {
+        "clone_url": "https://github.com/CommE2E/comm.git",
+        "full_name": "CommE2E/comm",
+        "size": 155758,
+        "stargazers_count": 242,
+        "subscribers_count": 11,
+        "watchers_count": 242
+    },
+    {
+        "clone_url": "https://github.com/SBoudrias/Inquirer.js.git",
+        "full_name": "SBoudrias/Inquirer.js",
+        "size": 453252,
+        "stargazers_count": 18790,
+        "subscribers_count": 151,
+        "watchers_count": 18790
+    },
+    {
+        "clone_url": "https://github.com/CircuitVerse/CircuitVerse.git",
+        "full_name": "CircuitVerse/CircuitVerse",
+        "size": 107049,
+        "stargazers_count": 706,
+        "subscribers_count": 21,
+        "watchers_count": 706
+    },
+    {
+        "clone_url": "https://github.com/OpenNebula/one.git",
+        "full_name": "OpenNebula/one",
+        "size": 111612,
+        "stargazers_count": 1062,
+        "subscribers_count": 78,
+        "watchers_count": 1062
+    },
+    {
+        "clone_url": "https://github.com/AdguardTeam/AdGuardForSafari.git",
+        "full_name": "AdguardTeam/AdGuardForSafari",
+        "size": 110913,
+        "stargazers_count": 925,
+        "subscribers_count": 32,
+        "watchers_count": 925
+    },
+    {
+        "clone_url": "https://github.com/wdr-data/code4maus.git",
+        "full_name": "wdr-data/code4maus",
+        "size": 462160,
+        "stargazers_count": 114,
+        "subscribers_count": 10,
+        "watchers_count": 114
+    },
+    {
+        "clone_url": "https://github.com/summernote/summernote.git",
+        "full_name": "summernote/summernote",
+        "size": 18962,
+        "stargazers_count": 11257,
+        "subscribers_count": 297,
+        "watchers_count": 11257
+    },
+    {
+        "clone_url": "https://github.com/coderaiser/putout.git",
+        "full_name": "coderaiser/putout",
+        "size": 14503,
+        "stargazers_count": 616,
+        "subscribers_count": 11,
+        "watchers_count": 616
+    },
+    {
+        "clone_url": "https://github.com/wix/Detox.git",
+        "full_name": "wix/Detox",
+        "size": 100203,
+        "stargazers_count": 10671,
+        "subscribers_count": 380,
+        "watchers_count": 10671
+    },
+    {
+        "clone_url": "https://github.com/exelearning/iteexe.git",
+        "full_name": "exelearning/iteexe",
+        "size": 540388,
+        "stargazers_count": 116,
+        "subscribers_count": 27,
+        "watchers_count": 116
+    },
+    {
+        "clone_url": "https://github.com/wurmlab/sequenceserver.git",
+        "full_name": "wurmlab/sequenceserver",
+        "size": 60069,
+        "stargazers_count": 258,
+        "subscribers_count": 17,
+        "watchers_count": 258
+    },
+    {
+        "clone_url": "https://github.com/mingdaocom/pd-openweb.git",
+        "full_name": "mingdaocom/pd-openweb",
+        "size": 59328,
+        "stargazers_count": 174,
+        "subscribers_count": 12,
+        "watchers_count": 174
+    },
+    {
+        "clone_url": "https://github.com/Mathpix/mathpix-markdown-it.git",
+        "full_name": "Mathpix/mathpix-markdown-it",
+        "size": 58653,
+        "stargazers_count": 373,
+        "subscribers_count": 12,
+        "watchers_count": 373
+    },
+    {
+        "clone_url": "https://github.com/ethereumclassic/ethereumclassic.github.io.git",
+        "full_name": "ethereumclassic/ethereumclassic.github.io",
+        "size": 610130,
+        "stargazers_count": 160,
+        "subscribers_count": 38,
+        "watchers_count": 160
+    },
+    {
+        "clone_url": "https://github.com/cardano-foundation/developer-portal.git",
+        "full_name": "cardano-foundation/developer-portal",
+        "size": 224320,
+        "stargazers_count": 341,
+        "subscribers_count": 36,
+        "watchers_count": 341
+    },
+    {
+        "clone_url": "https://github.com/steveseguin/vdo.ninja.git",
+        "full_name": "steveseguin/vdo.ninja",
+        "size": 284984,
+        "stargazers_count": 2355,
+        "subscribers_count": 61,
+        "watchers_count": 2355
+    },
+    {
+        "clone_url": "https://github.com/friuns2/Awesome-GPTs-Big-List.git",
+        "full_name": "friuns2/Awesome-GPTs-Big-List",
+        "size": 13194,
+        "stargazers_count": 107,
+        "subscribers_count": 2,
+        "watchers_count": 107
+    },
+    {
+        "clone_url": "https://github.com/pqrs-org/KE-complex_modifications.git",
+        "full_name": "pqrs-org/KE-complex_modifications",
+        "size": 59467,
+        "stargazers_count": 1193,
+        "subscribers_count": 64,
+        "watchers_count": 1193
+    },
+    {
+        "clone_url": "https://github.com/amzn/style-dictionary.git",
+        "full_name": "amzn/style-dictionary",
+        "size": 11043,
+        "stargazers_count": 3475,
+        "subscribers_count": 46,
+        "watchers_count": 3475
+    },
+    {
+        "clone_url": "https://github.com/bbc/simorgh.git",
+        "full_name": "bbc/simorgh",
+        "size": 1838240,
+        "stargazers_count": 1186,
+        "subscribers_count": 39,
+        "watchers_count": 1186
+    },
+    {
+        "clone_url": "https://github.com/WordPress/wordpress-playground.git",
+        "full_name": "WordPress/wordpress-playground",
+        "size": 1331163,
+        "stargazers_count": 1433,
+        "subscribers_count": 31,
+        "watchers_count": 1433
+    },
+    {
+        "clone_url": "https://github.com/masa-finance/docs.git",
+        "full_name": "masa-finance/docs",
+        "size": 48564,
+        "stargazers_count": 138,
+        "subscribers_count": 3,
+        "watchers_count": 138
+    },
+    {
+        "clone_url": "https://github.com/AlaSQL/alasql.git",
+        "full_name": "AlaSQL/alasql",
+        "size": 94728,
+        "stargazers_count": 6755,
+        "subscribers_count": 137,
+        "watchers_count": 6755
+    },
+    {
+        "clone_url": "https://github.com/synclounge/synclounge.git",
+        "full_name": "synclounge/synclounge",
+        "size": 17675,
+        "stargazers_count": 975,
+        "subscribers_count": 26,
+        "watchers_count": 975
+    },
+    {
+        "clone_url": "https://github.com/betaflight/betaflight-configurator.git",
+        "full_name": "betaflight/betaflight-configurator",
+        "size": 77639,
+        "stargazers_count": 2166,
+        "subscribers_count": 154,
+        "watchers_count": 2166
+    },
+    {
+        "clone_url": "https://github.com/cloudera/hue.git",
+        "full_name": "cloudera/hue",
+        "size": 457900,
+        "stargazers_count": 990,
+        "subscribers_count": 36,
+        "watchers_count": 990
+    },
+    {
+        "clone_url": "https://github.com/wasmerio/winterjs.git",
+        "full_name": "wasmerio/winterjs",
+        "size": 225435,
+        "stargazers_count": 780,
+        "subscribers_count": 15,
+        "watchers_count": 780
+    },
+    {
+        "clone_url": "https://github.com/twbs/bootstrap.git",
+        "full_name": "twbs/bootstrap",
+        "size": 237054,
+        "stargazers_count": 165976,
+        "subscribers_count": 6789,
+        "watchers_count": 165976
+    },
+    {
+        "clone_url": "https://github.com/movim/movim.git",
+        "full_name": "movim/movim",
+        "size": 59963,
+        "stargazers_count": 1663,
+        "subscribers_count": 71,
+        "watchers_count": 1663
+    },
+    {
+        "clone_url": "https://github.com/AdguardTeam/AdguardBrowserExtension.git",
+        "full_name": "AdguardTeam/AdguardBrowserExtension",
+        "size": 151447,
+        "stargazers_count": 2556,
+        "subscribers_count": 136,
+        "watchers_count": 2556
+    },
+    {
+        "clone_url": "https://github.com/Labelbox/labelbox-custom-labeling-apps.git",
+        "full_name": "Labelbox/labelbox-custom-labeling-apps",
+        "size": 25689,
+        "stargazers_count": 1735,
+        "subscribers_count": 81,
+        "watchers_count": 1735
+    },
+    {
+        "clone_url": "https://github.com/appium/appium-inspector.git",
+        "full_name": "appium/appium-inspector",
+        "size": 50658,
+        "stargazers_count": 753,
+        "subscribers_count": 23,
+        "watchers_count": 753
+    },
+    {
+        "clone_url": "https://github.com/inaturalist/inaturalist.git",
+        "full_name": "inaturalist/inaturalist",
+        "size": 211061,
+        "stargazers_count": 593,
+        "subscribers_count": 41,
+        "watchers_count": 593
+    },
+    {
+        "clone_url": "https://github.com/didi/mpx.git",
+        "full_name": "didi/mpx",
+        "size": 22074,
+        "stargazers_count": 3439,
+        "subscribers_count": 91,
+        "watchers_count": 3439
+    },
+    {
+        "clone_url": "https://github.com/marwin1991/profile-technology-icons.git",
+        "full_name": "marwin1991/profile-technology-icons",
+        "size": 54311,
+        "stargazers_count": 336,
+        "subscribers_count": 3,
+        "watchers_count": 336
+    },
+    {
+        "clone_url": "https://github.com/bitrise-io/bitrise-workflow-editor.git",
+        "full_name": "bitrise-io/bitrise-workflow-editor",
+        "size": 28417,
+        "stargazers_count": 112,
+        "subscribers_count": 21,
+        "watchers_count": 112
+    },
+    {
+        "clone_url": "https://github.com/zotero/zotero-connectors.git",
+        "full_name": "zotero/zotero-connectors",
+        "size": 43151,
+        "stargazers_count": 410,
+        "subscribers_count": 23,
+        "watchers_count": 410
+    },
+    {
+        "clone_url": "https://github.com/jhu-ep-coursera/fullstack-course4.git",
+        "full_name": "jhu-ep-coursera/fullstack-course4",
+        "size": 31608,
+        "stargazers_count": 9987,
+        "subscribers_count": 1292,
+        "watchers_count": 9987
+    },
+    {
+        "clone_url": "https://github.com/needle-tools/needle-engine-support.git",
+        "full_name": "needle-tools/needle-engine-support",
+        "size": 20986,
+        "stargazers_count": 516,
+        "subscribers_count": 13,
+        "watchers_count": 516
+    },
+    {
+        "clone_url": "https://github.com/poolifier/poolifier.git",
+        "full_name": "poolifier/poolifier",
+        "size": 16188,
+        "stargazers_count": 271,
+        "subscribers_count": 8,
+        "watchers_count": 271
+    },
+    {
+        "clone_url": "https://github.com/chatwoot/chatwoot-mobile-app.git",
+        "full_name": "chatwoot/chatwoot-mobile-app",
+        "size": 23323,
+        "stargazers_count": 497,
+        "subscribers_count": 19,
+        "watchers_count": 497
+    },
+    {
+        "clone_url": "https://github.com/karsonzhang/fastadmin.git",
+        "full_name": "karsonzhang/fastadmin",
+        "size": 19982,
+        "stargazers_count": 1632,
+        "subscribers_count": 119,
+        "watchers_count": 1632
+    },
+    {
+        "clone_url": "https://github.com/IMA-WorldHealth/bhima.git",
+        "full_name": "IMA-WorldHealth/bhima",
+        "size": 67774,
+        "stargazers_count": 202,
+        "subscribers_count": 17,
+        "watchers_count": 202
+    },
+    {
+        "clone_url": "https://github.com/supertokens/supertokens-node.git",
+        "full_name": "supertokens/supertokens-node",
+        "size": 24077,
+        "stargazers_count": 252,
+        "subscribers_count": 10,
+        "watchers_count": 252
+    },
+    {
+        "clone_url": "https://github.com/realgeoffrey/knowledge.git",
+        "full_name": "realgeoffrey/knowledge",
+        "size": 29428,
+        "stargazers_count": 108,
+        "subscribers_count": 10,
+        "watchers_count": 108
+    },
+    {
+        "clone_url": "https://github.com/chrisguttandin/web-audio-beat-detector.git",
+        "full_name": "chrisguttandin/web-audio-beat-detector",
+        "size": 38582,
+        "stargazers_count": 524,
+        "subscribers_count": 11,
+        "watchers_count": 524
+    },
+    {
+        "clone_url": "https://github.com/BrowserBox/BrowserBox.git",
+        "full_name": "BrowserBox/BrowserBox",
+        "size": 20119,
+        "stargazers_count": 2890,
+        "subscribers_count": 24,
+        "watchers_count": 2890
+    },
+    {
+        "clone_url": "https://github.com/facebookexperimental/Recoil.git",
+        "full_name": "facebookexperimental/Recoil",
+        "size": 49839,
+        "stargazers_count": 19199,
+        "subscribers_count": 199,
+        "watchers_count": 19199
+    },
+    {
+        "clone_url": "https://github.com/Automattic/woocommerce-services.git",
+        "full_name": "Automattic/woocommerce-services",
+        "size": 21312,
+        "stargazers_count": 102,
+        "subscribers_count": 89,
+        "watchers_count": 102
+    },
+    {
+        "clone_url": "https://github.com/Authress-Engineering/openapi-explorer.git",
+        "full_name": "Authress-Engineering/openapi-explorer",
+        "size": 63003,
+        "stargazers_count": 236,
+        "subscribers_count": 6,
+        "watchers_count": 236
+    },
+    {
+        "clone_url": "https://github.com/DistributedCollective/Sovryn-smart-contracts.git",
+        "full_name": "DistributedCollective/Sovryn-smart-contracts",
+        "size": 30937,
+        "stargazers_count": 113,
+        "subscribers_count": 16,
+        "watchers_count": 113
+    },
+    {
+        "clone_url": "https://github.com/overleaf/overleaf.git",
+        "full_name": "overleaf/overleaf",
+        "size": 150018,
+        "stargazers_count": 11821,
+        "subscribers_count": 198,
+        "watchers_count": 11821
+    },
+    {
+        "clone_url": "https://github.com/marwin1991/profile-technology-icons.git",
+        "full_name": "marwin1991/profile-technology-icons",
+        "size": 54311,
+        "stargazers_count": 336,
+        "subscribers_count": 3,
+        "watchers_count": 336
+    },
+    {
+        "clone_url": "https://github.com/bitrise-io/bitrise-workflow-editor.git",
+        "full_name": "bitrise-io/bitrise-workflow-editor",
+        "size": 28417,
+        "stargazers_count": 112,
+        "subscribers_count": 21,
+        "watchers_count": 112
+    },
+    {
+        "clone_url": "https://github.com/zotero/zotero-connectors.git",
+        "full_name": "zotero/zotero-connectors",
+        "size": 43151,
+        "stargazers_count": 410,
+        "subscribers_count": 23,
+        "watchers_count": 410
+    },
+    {
+        "clone_url": "https://github.com/jhu-ep-coursera/fullstack-course4.git",
+        "full_name": "jhu-ep-coursera/fullstack-course4",
+        "size": 31608,
+        "stargazers_count": 9987,
+        "subscribers_count": 1292,
+        "watchers_count": 9987
+    },
+    {
+        "clone_url": "https://github.com/needle-tools/needle-engine-support.git",
+        "full_name": "needle-tools/needle-engine-support",
+        "size": 20986,
+        "stargazers_count": 516,
+        "subscribers_count": 13,
+        "watchers_count": 516
+    },
+    {
+        "clone_url": "https://github.com/poolifier/poolifier.git",
+        "full_name": "poolifier/poolifier",
+        "size": 16188,
+        "stargazers_count": 271,
+        "subscribers_count": 8,
+        "watchers_count": 271
+    },
+    {
+        "clone_url": "https://github.com/chatwoot/chatwoot-mobile-app.git",
+        "full_name": "chatwoot/chatwoot-mobile-app",
+        "size": 23323,
+        "stargazers_count": 497,
+        "subscribers_count": 19,
+        "watchers_count": 497
+    },
+    {
+        "clone_url": "https://github.com/karsonzhang/fastadmin.git",
+        "full_name": "karsonzhang/fastadmin",
+        "size": 19982,
+        "stargazers_count": 1632,
+        "subscribers_count": 119,
+        "watchers_count": 1632
+    },
+    {
+        "clone_url": "https://github.com/IMA-WorldHealth/bhima.git",
+        "full_name": "IMA-WorldHealth/bhima",
+        "size": 67774,
+        "stargazers_count": 202,
+        "subscribers_count": 17,
+        "watchers_count": 202
+    },
+    {
+        "clone_url": "https://github.com/supertokens/supertokens-node.git",
+        "full_name": "supertokens/supertokens-node",
+        "size": 24077,
+        "stargazers_count": 252,
+        "subscribers_count": 10,
+        "watchers_count": 252
+    },
+    {
+        "clone_url": "https://github.com/realgeoffrey/knowledge.git",
+        "full_name": "realgeoffrey/knowledge",
+        "size": 29428,
+        "stargazers_count": 108,
+        "subscribers_count": 10,
+        "watchers_count": 108
+    },
+    {
+        "clone_url": "https://github.com/chrisguttandin/web-audio-beat-detector.git",
+        "full_name": "chrisguttandin/web-audio-beat-detector",
+        "size": 38582,
+        "stargazers_count": 524,
+        "subscribers_count": 11,
+        "watchers_count": 524
+    },
+    {
+        "clone_url": "https://github.com/BrowserBox/BrowserBox.git",
+        "full_name": "BrowserBox/BrowserBox",
+        "size": 20119,
+        "stargazers_count": 2890,
+        "subscribers_count": 24,
+        "watchers_count": 2890
+    },
+    {
+        "clone_url": "https://github.com/facebookexperimental/Recoil.git",
+        "full_name": "facebookexperimental/Recoil",
+        "size": 49839,
+        "stargazers_count": 19199,
+        "subscribers_count": 199,
+        "watchers_count": 19199
+    },
+    {
+        "clone_url": "https://github.com/Automattic/woocommerce-services.git",
+        "full_name": "Automattic/woocommerce-services",
+        "size": 21312,
+        "stargazers_count": 102,
+        "subscribers_count": 89,
+        "watchers_count": 102
+    },
+    {
+        "clone_url": "https://github.com/greenbone/gsa.git",
+        "full_name": "greenbone/gsa",
+        "size": 70736,
+        "stargazers_count": 195,
+        "subscribers_count": 21,
+        "watchers_count": 195
+    },
+    {
+        "clone_url": "https://github.com/microsoft/monaco-editor.git",
+        "full_name": "microsoft/monaco-editor",
+        "size": 133725,
+        "stargazers_count": 36367,
+        "subscribers_count": 524,
+        "watchers_count": 36367
+    },
+    {
+        "clone_url": "https://github.com/fmarchioni/mastertheboss.git",
+        "full_name": "fmarchioni/mastertheboss",
+        "size": 66082,
+        "stargazers_count": 184,
+        "subscribers_count": 23,
+        "watchers_count": 184
+    },
+    {
+        "clone_url": "https://github.com/emberjs/ember.js.git",
+        "full_name": "emberjs/ember.js",
+        "size": 79146,
+        "stargazers_count": 22423,
+        "subscribers_count": 864,
+        "watchers_count": 22423
+    },
+    {
+        "clone_url": "https://github.com/serverless/serverless.git",
+        "full_name": "serverless/serverless",
+        "size": 97869,
+        "stargazers_count": 45360,
+        "subscribers_count": 949,
+        "watchers_count": 45360
+    },
+    {
+        "clone_url": "https://github.com/EvHaus/youtube-hide-watched.git",
+        "full_name": "EvHaus/youtube-hide-watched",
+        "size": 14051,
+        "stargazers_count": 112,
+        "subscribers_count": 8,
+        "watchers_count": 112
+    },
+    {
+        "clone_url": "https://github.com/johnfactotum/foliate.git",
+        "full_name": "johnfactotum/foliate",
+        "size": 24536,
+        "stargazers_count": 4557,
+        "subscribers_count": 59,
+        "watchers_count": 4557
+    },
+    {
+        "clone_url": "https://github.com/exercism/javascript.git",
+        "full_name": "exercism/javascript",
+        "size": 34990,
+        "stargazers_count": 515,
+        "subscribers_count": 23,
+        "watchers_count": 515
+    },
+    {
+        "clone_url": "https://github.com/rocket-pool/rocketpool.git",
+        "full_name": "rocket-pool/rocketpool",
+        "size": 13679,
+        "stargazers_count": 850,
+        "subscribers_count": 82,
+        "watchers_count": 850
+    },
+    {
+        "clone_url": "https://github.com/middyjs/middy.git",
+        "full_name": "middyjs/middy",
+        "size": 45205,
+        "stargazers_count": 3543,
+        "subscribers_count": 35,
+        "watchers_count": 3543
+    },
+    {
+        "clone_url": "https://github.com/topcoder-platform/community-app.git",
+        "full_name": "topcoder-platform/community-app",
+        "size": 154821,
+        "stargazers_count": 124,
+        "subscribers_count": 51,
+        "watchers_count": 124
+    },
+    {
+        "clone_url": "https://github.com/OWASP/threat-dragon.git",
+        "full_name": "OWASP/threat-dragon",
+        "size": 134947,
+        "stargazers_count": 667,
+        "subscribers_count": 27,
+        "watchers_count": 667
+    },
+    {
+        "clone_url": "https://github.com/stefanjudis/tiny-helpers.git",
+        "full_name": "stefanjudis/tiny-helpers",
+        "size": 59435,
+        "stargazers_count": 892,
+        "subscribers_count": 11,
+        "watchers_count": 892
+    },
+    {
+        "clone_url": "https://github.com/faisalman/ua-parser-js.git",
+        "full_name": "faisalman/ua-parser-js",
+        "size": 15345,
+        "stargazers_count": 8318,
+        "subscribers_count": 133,
+        "watchers_count": 8318
+    },
+    {
+        "clone_url": "https://github.com/bajins/notes-vuepress.git",
+        "full_name": "bajins/notes-vuepress",
+        "size": 94493,
+        "stargazers_count": 107,
+        "subscribers_count": 6,
+        "watchers_count": 107
+    },
+    {
+        "clone_url": "https://github.com/meganz/webclient.git",
+        "full_name": "meganz/webclient",
+        "size": 567647,
+        "stargazers_count": 1007,
+        "subscribers_count": 68,
+        "watchers_count": 1007
+    },
+    {
+        "clone_url": "https://github.com/knex/knex.git",
+        "full_name": "knex/knex",
+        "size": 16672,
+        "stargazers_count": 18239,
+        "subscribers_count": 207,
+        "watchers_count": 18239
+    },
+    {
+        "clone_url": "https://github.com/DerekStride/tree-sitter-sql.git",
+        "full_name": "DerekStride/tree-sitter-sql",
+        "size": 41548,
+        "stargazers_count": 105,
+        "subscribers_count": 4,
+        "watchers_count": 105
+    },
+    {
+        "clone_url": "https://github.com/lyfe00011/whatsapp-bot-md.git",
+        "full_name": "lyfe00011/whatsapp-bot-md",
+        "size": 26890,
+        "stargazers_count": 828,
+        "subscribers_count": 54,
+        "watchers_count": 828
+    },
+    {
+        "clone_url": "https://github.com/scratchfoundation/scratch-vm.git",
+        "full_name": "scratchfoundation/scratch-vm",
+        "size": 458532,
+        "stargazers_count": 1124,
+        "subscribers_count": 97,
+        "watchers_count": 1124
+    },
+    {
+        "clone_url": "https://github.com/ArnoldSmith86/virtualtabletop.git",
+        "full_name": "ArnoldSmith86/virtualtabletop",
+        "size": 386842,
+        "stargazers_count": 131,
+        "subscribers_count": 12,
+        "watchers_count": 131
+    },
+    {
+        "clone_url": "https://github.com/department-of-veterans-affairs/vets-website.git",
+        "full_name": "department-of-veterans-affairs/vets-website",
+        "size": 270778,
+        "stargazers_count": 229,
+        "subscribers_count": 206,
+        "watchers_count": 229
+    },
+    {
+        "clone_url": "https://github.com/bhaoo/Cuckoo.git",
+        "full_name": "bhaoo/Cuckoo",
+        "size": 11306,
+        "stargazers_count": 500,
+        "subscribers_count": 6,
+        "watchers_count": 500
+    },
+    {
+        "clone_url": "https://github.com/scratchfoundation/scratch-www.git",
+        "full_name": "scratchfoundation/scratch-www",
+        "size": 402106,
+        "stargazers_count": 1512,
+        "subscribers_count": 124,
+        "watchers_count": 1512
+    },
+    {
+        "clone_url": "https://github.com/lihongxun945/gobang.git",
+        "full_name": "lihongxun945/gobang",
+        "size": 12868,
+        "stargazers_count": 1506,
+        "subscribers_count": 35,
+        "watchers_count": 1506
+    },
+    {
+        "clone_url": "https://github.com/plasma-umass/scalene.git",
+        "full_name": "plasma-umass/scalene",
+        "size": 13629,
+        "stargazers_count": 10343,
+        "subscribers_count": 86,
+        "watchers_count": 10343
+    },
+    {
+        "clone_url": "https://github.com/breck7/pldb.git",
+        "full_name": "breck7/pldb",
+        "size": 162005,
+        "stargazers_count": 667,
+        "subscribers_count": 8,
+        "watchers_count": 667
+    },
+    {
+        "clone_url": "https://github.com/conversejs/converse.js.git",
+        "full_name": "conversejs/converse.js",
+        "size": 307739,
+        "stargazers_count": 2974,
+        "subscribers_count": 143,
+        "watchers_count": 2974
+    },
+    {
+        "clone_url": "https://github.com/CityOfZion/neon-wallet.git",
+        "full_name": "CityOfZion/neon-wallet",
+        "size": 119511,
+        "stargazers_count": 1034,
+        "subscribers_count": 94,
+        "watchers_count": 1034
+    },
+    {
+        "clone_url": "https://github.com/MichMich/MagicMirror.git",
+        "full_name": "MichMich/MagicMirror",
+        "size": 22338,
+        "stargazers_count": 18490,
+        "subscribers_count": 647,
+        "watchers_count": 18490
+    },
+    {
+        "clone_url": "https://github.com/NaiboWang/EasySpider.git",
+        "full_name": "NaiboWang/EasySpider",
+        "size": 93061,
+        "stargazers_count": 17780,
+        "subscribers_count": 140,
+        "watchers_count": 17780
+    },
+    {
+        "clone_url": "https://github.com/osmlab/osm-community-index.git",
+        "full_name": "osmlab/osm-community-index",
+        "size": 20666,
+        "stargazers_count": 138,
+        "subscribers_count": 32,
+        "watchers_count": 138
+    },
+    {
+        "clone_url": "https://github.com/OCA/web.git",
+        "full_name": "OCA/web",
+        "size": 143880,
+        "stargazers_count": 809,
+        "subscribers_count": 182,
+        "watchers_count": 809
+    },
+    {
+        "clone_url": "https://github.com/steveseguin/electroncapture.git",
+        "full_name": "steveseguin/electroncapture",
+        "size": 40156,
+        "stargazers_count": 291,
+        "subscribers_count": 17,
+        "watchers_count": 291
+    },
+    {
+        "clone_url": "https://github.com/taskcluster/taskcluster.git",
+        "full_name": "taskcluster/taskcluster",
+        "size": 149990,
+        "stargazers_count": 330,
+        "subscribers_count": 18,
+        "watchers_count": 330
+    },
+    {
+        "clone_url": "https://github.com/google/santa-tracker-web.git",
+        "full_name": "google/santa-tracker-web",
+        "size": 578363,
+        "stargazers_count": 601,
+        "subscribers_count": 48,
+        "watchers_count": 601
+    },
+    {
+        "clone_url": "https://github.com/excalidraw/excalidraw-libraries.git",
+        "full_name": "excalidraw/excalidraw-libraries",
+        "size": 108071,
+        "stargazers_count": 634,
+        "subscribers_count": 13,
+        "watchers_count": 634
+    },
+    {
+        "clone_url": "https://github.com/GoogleChrome/lighthouse.git",
+        "full_name": "GoogleChrome/lighthouse",
+        "size": 215393,
+        "stargazers_count": 27321,
+        "subscribers_count": 590,
+        "watchers_count": 27321
+    },
+    {
+        "clone_url": "https://github.com/nightscout/cgm-remote-monitor.git",
+        "full_name": "nightscout/cgm-remote-monitor",
+        "size": 30193,
+        "stargazers_count": 2228,
+        "subscribers_count": 286,
+        "watchers_count": 2228
+    },
+    {
+        "clone_url": "https://github.com/rocky-linux/rockylinux.org.git",
+        "full_name": "rocky-linux/rockylinux.org",
+        "size": 12627,
+        "stargazers_count": 165,
+        "subscribers_count": 12,
+        "watchers_count": 165
+    },
+    {
+        "clone_url": "https://github.com/mbloch/mapshaper.git",
+        "full_name": "mbloch/mapshaper",
+        "size": 133881,
+        "stargazers_count": 3479,
+        "subscribers_count": 127,
+        "watchers_count": 3479
+    },
+    {
+        "clone_url": "https://github.com/IBMa/equal-access.git",
+        "full_name": "IBMa/equal-access",
+        "size": 65031,
+        "stargazers_count": 587,
+        "subscribers_count": 17,
+        "watchers_count": 587
+    },
+    {
+        "clone_url": "https://github.com/canove/whaticket-community.git",
+        "full_name": "canove/whaticket-community",
+        "size": 122922,
+        "stargazers_count": 1216,
+        "subscribers_count": 114,
+        "watchers_count": 1216
+    },
+    {
+        "clone_url": "https://github.com/NginxProxyManager/nginx-proxy-manager.git",
+        "full_name": "NginxProxyManager/nginx-proxy-manager",
+        "size": 10650,
+        "stargazers_count": 16358,
+        "subscribers_count": 171,
+        "watchers_count": 16358
+    },
+    {
+        "clone_url": "https://github.com/conversejs/converse.js.git",
+        "full_name": "conversejs/converse.js",
+        "size": 307739,
+        "stargazers_count": 2974,
+        "subscribers_count": 143,
+        "watchers_count": 2974
+    },
+    {
+        "clone_url": "https://github.com/CityOfZion/neon-wallet.git",
+        "full_name": "CityOfZion/neon-wallet",
+        "size": 119511,
+        "stargazers_count": 1034,
+        "subscribers_count": 94,
+        "watchers_count": 1034
+    },
+    {
+        "clone_url": "https://github.com/MichMich/MagicMirror.git",
+        "full_name": "MichMich/MagicMirror",
+        "size": 22338,
+        "stargazers_count": 18490,
+        "subscribers_count": 647,
+        "watchers_count": 18490
+    },
+    {
+        "clone_url": "https://github.com/NaiboWang/EasySpider.git",
+        "full_name": "NaiboWang/EasySpider",
+        "size": 93061,
+        "stargazers_count": 17780,
+        "subscribers_count": 140,
+        "watchers_count": 17780
+    },
+    {
+        "clone_url": "https://github.com/clearlydefined/curated-data.git",
+        "full_name": "clearlydefined/curated-data",
+        "size": 68038,
+        "stargazers_count": 113,
+        "subscribers_count": 11,
+        "watchers_count": 113
+    },
+    {
+        "clone_url": "https://github.com/MetaMask/test-dapp.git",
+        "full_name": "MetaMask/test-dapp",
+        "size": 11742,
+        "stargazers_count": 528,
+        "subscribers_count": 64,
+        "watchers_count": 528
+    },
+    {
+        "clone_url": "https://github.com/facebook/Rapid.git",
+        "full_name": "facebook/Rapid",
+        "size": 412773,
+        "stargazers_count": 377,
+        "subscribers_count": 32,
+        "watchers_count": 377
+    },
+    {
+        "clone_url": "https://github.com/Koenvh1/ets2-local-radio.git",
+        "full_name": "Koenvh1/ets2-local-radio",
+        "size": 1848685,
+        "stargazers_count": 193,
+        "subscribers_count": 14,
+        "watchers_count": 193
+    },
+    {
+        "clone_url": "https://github.com/sverweij/dependency-cruiser.git",
+        "full_name": "sverweij/dependency-cruiser",
+        "size": 61642,
+        "stargazers_count": 4543,
+        "subscribers_count": 19,
+        "watchers_count": 4543
+    },
+    {
+        "clone_url": "https://github.com/torinmb/mediapipe-touchdesigner.git",
+        "full_name": "torinmb/mediapipe-touchdesigner",
+        "size": 11342,
+        "stargazers_count": 184,
+        "subscribers_count": 8,
+        "watchers_count": 184
+    },
+    {
+        "clone_url": "https://github.com/jaywcjlove/awesome-mac.git",
+        "full_name": "jaywcjlove/awesome-mac",
+        "size": 11744,
+        "stargazers_count": 65173,
+        "subscribers_count": 1445,
+        "watchers_count": 65173
+    },
+    {
+        "clone_url": "https://github.com/xeokit/xeokit-bim-viewer.git",
+        "full_name": "xeokit/xeokit-bim-viewer",
+        "size": 399702,
+        "stargazers_count": 325,
+        "subscribers_count": 12,
+        "watchers_count": 325
+    },
+    {
+        "clone_url": "https://github.com/Agoric/agoric-sdk.git",
+        "full_name": "Agoric/agoric-sdk",
+        "size": 94541,
+        "stargazers_count": 288,
+        "subscribers_count": 22,
+        "watchers_count": 288
+    },
+    {
+        "clone_url": "https://github.com/octokit/graphql-schema.git",
+        "full_name": "octokit/graphql-schema",
+        "size": 10975,
+        "stargazers_count": 167,
+        "subscribers_count": 10,
+        "watchers_count": 167
+    },
+    {
+        "clone_url": "https://github.com/MetaMask/eth-phishing-detect.git",
+        "full_name": "MetaMask/eth-phishing-detect",
+        "size": 53192,
+        "stargazers_count": 809,
+        "subscribers_count": 106,
+        "watchers_count": 809
+    },
+    {
+        "clone_url": "https://github.com/GladysAssistant/Gladys.git",
+        "full_name": "GladysAssistant/Gladys",
+        "size": 30590,
+        "stargazers_count": 2408,
+        "subscribers_count": 77,
+        "watchers_count": 2408
+    },
+    {
+        "clone_url": "https://github.com/node-pinus/pinus.git",
+        "full_name": "node-pinus/pinus",
+        "size": 9973,
+        "stargazers_count": 1661,
+        "subscribers_count": 81,
+        "watchers_count": 1661
+    },
+    {
+        "clone_url": "https://github.com/nasa/earthdata-search.git",
+        "full_name": "nasa/earthdata-search",
+        "size": 181081,
+        "stargazers_count": 716,
+        "subscribers_count": 61,
+        "watchers_count": 716
+    },
+    {
+        "clone_url": "https://github.com/NodeBB/NodeBB.git",
+        "full_name": "NodeBB/NodeBB",
+        "size": 86474,
+        "stargazers_count": 13662,
+        "subscribers_count": 374,
+        "watchers_count": 13662
+    },
+    {
+        "clone_url": "https://github.com/Koenkk/zigbee2mqtt.git",
+        "full_name": "Koenkk/zigbee2mqtt",
+        "size": 108766,
+        "stargazers_count": 10198,
+        "subscribers_count": 217,
+        "watchers_count": 10198
+    },
+    {
+        "clone_url": "https://github.com/vict0rsch/PaperMemory.git",
+        "full_name": "vict0rsch/PaperMemory",
+        "size": 91042,
+        "stargazers_count": 391,
+        "subscribers_count": 7,
+        "watchers_count": 391
+    },
+    {
+        "clone_url": "https://github.com/formio/formio.git",
+        "full_name": "formio/formio",
+        "size": 10512,
+        "stargazers_count": 1843,
+        "subscribers_count": 89,
+        "watchers_count": 1843
+    },
+    {
+        "clone_url": "https://github.com/Jermolene/TiddlyWiki5.git",
+        "full_name": "Jermolene/TiddlyWiki5",
+        "size": 63535,
+        "stargazers_count": 7546,
+        "subscribers_count": 241,
+        "watchers_count": 7546
+    },
+    {
+        "clone_url": "https://github.com/scraly/developers-conferences-agenda.git",
+        "full_name": "scraly/developers-conferences-agenda",
+        "size": 54025,
+        "stargazers_count": 1325,
+        "subscribers_count": 93,
+        "watchers_count": 1325
+    },
+    {
+        "clone_url": "https://github.com/pnp/script-samples.git",
+        "full_name": "pnp/script-samples",
+        "size": 70783,
+        "stargazers_count": 158,
+        "subscribers_count": 16,
+        "watchers_count": 158
+    },
+    {
+        "clone_url": "https://github.com/De-Panther/unity-webxr-export.git",
+        "full_name": "De-Panther/unity-webxr-export",
+        "size": 642206,
+        "stargazers_count": 840,
+        "subscribers_count": 33,
+        "watchers_count": 840
+    },
+    {
+        "clone_url": "https://github.com/sitespeedio/browsertime.git",
+        "full_name": "sitespeedio/browsertime",
+        "size": 127065,
+        "stargazers_count": 594,
+        "subscribers_count": 26,
+        "watchers_count": 594
+    },
+    {
+        "clone_url": "https://github.com/zulip/zulip-mobile.git",
+        "full_name": "zulip/zulip-mobile",
+        "size": 42833,
+        "stargazers_count": 1206,
+        "subscribers_count": 34,
+        "watchers_count": 1206
+    },
+    {
+        "clone_url": "https://github.com/stellarwp/kadence-blocks.git",
+        "full_name": "stellarwp/kadence-blocks",
+        "size": 134096,
+        "stargazers_count": 221,
+        "subscribers_count": 18,
+        "watchers_count": 221
+    },
+    {
+        "clone_url": "https://github.com/XPandora/PhysGaussian.git",
+        "full_name": "XPandora/PhysGaussian",
+        "size": 259951,
+        "stargazers_count": 226,
+        "subscribers_count": 25,
+        "watchers_count": 226
+    },
+    {
+        "clone_url": "https://github.com/jelhan/croodle.git",
+        "full_name": "jelhan/croodle",
+        "size": 21280,
+        "stargazers_count": 166,
+        "subscribers_count": 6,
+        "watchers_count": 166
+    },
+    {
+        "clone_url": "https://github.com/gorhill/uBlock.git",
+        "full_name": "gorhill/uBlock",
+        "size": 142024,
+        "stargazers_count": 40042,
+        "subscribers_count": 879,
+        "watchers_count": 40042
+    },
+    {
+        "clone_url": "https://github.com/facebook/metro.git",
+        "full_name": "facebook/metro",
+        "size": 35530,
+        "stargazers_count": 4940,
+        "subscribers_count": 98,
+        "watchers_count": 4940
+    },
+    {
+        "clone_url": "https://github.com/lonqie/SchaleDB.git",
+        "full_name": "lonqie/SchaleDB",
+        "size": 767799,
+        "stargazers_count": 264,
+        "subscribers_count": 9,
+        "watchers_count": 264
+    },
+    {
+        "clone_url": "https://github.com/Koenkk/zigbee-OTA.git",
+        "full_name": "Koenkk/zigbee-OTA",
+        "size": 75865,
+        "stargazers_count": 300,
+        "subscribers_count": 28,
+        "watchers_count": 300
+    },
+    {
+        "clone_url": "https://github.com/bp2008/ui3.git",
+        "full_name": "bp2008/ui3",
+        "size": 12068,
+        "stargazers_count": 109,
+        "subscribers_count": 20,
+        "watchers_count": 109
+    },
+    {
+        "clone_url": "https://github.com/npm/cli.git",
+        "full_name": "npm/cli",
+        "size": 163157,
+        "stargazers_count": 7625,
+        "subscribers_count": 219,
+        "watchers_count": 7625
+    },
+    {
+        "clone_url": "https://github.com/tc39/notes.git",
+        "full_name": "tc39/notes",
+        "size": 36351,
+        "stargazers_count": 538,
+        "subscribers_count": 249,
+        "watchers_count": 538
+    },
+    {
+        "clone_url": "https://github.com/balderdashy/sails.git",
+        "full_name": "balderdashy/sails",
+        "size": 13177,
+        "stargazers_count": 22690,
+        "subscribers_count": 649,
+        "watchers_count": 22690
+    },
+    {
+        "clone_url": "https://github.com/postmanlabs/postman-docs.git",
+        "full_name": "postmanlabs/postman-docs",
+        "size": 43962,
+        "stargazers_count": 523,
+        "subscribers_count": 47,
+        "watchers_count": 523
+    },
+    {
+        "clone_url": "https://github.com/vitalii-andriiovskyi/ngx-owl-carousel-o.git",
+        "full_name": "vitalii-andriiovskyi/ngx-owl-carousel-o",
+        "size": 19392,
+        "stargazers_count": 160,
+        "subscribers_count": 9,
+        "watchers_count": 160
+    },
+    {
+        "clone_url": "https://github.com/chrisguttandin/extendable-media-recorder.git",
+        "full_name": "chrisguttandin/extendable-media-recorder",
+        "size": 11223,
+        "stargazers_count": 178,
+        "subscribers_count": 6,
+        "watchers_count": 178
+    },
+    {
+        "clone_url": "https://github.com/kiwix/kiwix-js.git",
+        "full_name": "kiwix/kiwix-js",
+        "size": 53178,
+        "stargazers_count": 249,
+        "subscribers_count": 16,
+        "watchers_count": 249
+    },
+    {
+        "clone_url": "https://github.com/pinterest/gestalt.git",
+        "full_name": "pinterest/gestalt",
+        "size": 47082,
+        "stargazers_count": 4165,
+        "subscribers_count": 61,
+        "watchers_count": 4165
+    },
+    {
+        "clone_url": "https://github.com/hackclub/site.git",
+        "full_name": "hackclub/site",
+        "size": 407866,
+        "stargazers_count": 150,
+        "subscribers_count": 9,
+        "watchers_count": 150
+    },
+    {
+        "clone_url": "https://github.com/apostrophecms/apostrophe.git",
+        "full_name": "apostrophecms/apostrophe",
+        "size": 36194,
+        "stargazers_count": 4168,
+        "subscribers_count": 126,
+        "watchers_count": 4168
+    },
+    {
+        "clone_url": "https://github.com/argob/poncho.git",
+        "full_name": "argob/poncho",
+        "size": 258789,
+        "stargazers_count": 143,
+        "subscribers_count": 17,
+        "watchers_count": 143
+    },
+    {
+        "clone_url": "https://github.com/thinkcmf/thinkcmf.git",
+        "full_name": "thinkcmf/thinkcmf",
+        "size": 42494,
+        "stargazers_count": 2077,
+        "subscribers_count": 167,
+        "watchers_count": 2077
+    },
+    {
+        "clone_url": "https://github.com/BenjaminVanRyseghem/numbro.git",
+        "full_name": "BenjaminVanRyseghem/numbro",
+        "size": 10960,
+        "stargazers_count": 1023,
+        "subscribers_count": 19,
+        "watchers_count": 1023
+    },
+    {
+        "clone_url": "https://github.com/statichunt/statichunt.git",
+        "full_name": "statichunt/statichunt",
+        "size": 573929,
+        "stargazers_count": 103,
+        "subscribers_count": 2,
+        "watchers_count": 103
+    },
+    {
+        "clone_url": "https://github.com/machsix/Super-preloader.git",
+        "full_name": "machsix/Super-preloader",
+        "size": 42142,
+        "stargazers_count": 535,
+        "subscribers_count": 12,
+        "watchers_count": 535
+    },
+    {
+        "clone_url": "https://github.com/TurboWarp/desktop.git",
+        "full_name": "TurboWarp/desktop",
+        "size": 16596,
+        "stargazers_count": 265,
+        "subscribers_count": 12,
+        "watchers_count": 265
+    },
+    {
+        "clone_url": "https://github.com/chrisguttandin/worker-timers.git",
+        "full_name": "chrisguttandin/worker-timers",
+        "size": 14917,
+        "stargazers_count": 365,
+        "subscribers_count": 4,
+        "watchers_count": 365
+    },
+    {
+        "clone_url": "https://github.com/chrisguttandin/midi-json-parser.git",
+        "full_name": "chrisguttandin/midi-json-parser",
+        "size": 15348,
+        "stargazers_count": 102,
+        "subscribers_count": 4,
+        "watchers_count": 102
+    },
+    {
+        "clone_url": "https://github.com/kedro-org/kedro-viz.git",
+        "full_name": "kedro-org/kedro-viz",
+        "size": 57208,
+        "stargazers_count": 606,
+        "subscribers_count": 11,
+        "watchers_count": 606
+    },
+    {
+        "clone_url": "https://github.com/hotoo/pinyin.git",
+        "full_name": "hotoo/pinyin",
+        "size": 21005,
+        "stargazers_count": 7128,
+        "subscribers_count": 145,
+        "watchers_count": 7128
+    },
+    {
+        "clone_url": "https://github.com/socketio/socket.io-website.git",
+        "full_name": "socketio/socket.io-website",
+        "size": 16641,
+        "stargazers_count": 303,
+        "subscribers_count": 82,
+        "watchers_count": 303
+    },
+    {
+        "clone_url": "https://github.com/stackernews/stacker.news.git",
+        "full_name": "stackernews/stacker.news",
+        "size": 14230,
+        "stargazers_count": 315,
+        "subscribers_count": 12,
+        "watchers_count": 315
+    },
+    {
+        "clone_url": "https://github.com/bpmn-io/bpmn-js.git",
+        "full_name": "bpmn-io/bpmn-js",
+        "size": 13328,
+        "stargazers_count": 7606,
+        "subscribers_count": 223,
+        "watchers_count": 7606
+    },
+    {
+        "clone_url": "https://github.com/PrismarineJS/minecraft-data.git",
+        "full_name": "PrismarineJS/minecraft-data",
+        "size": 176941,
+        "stargazers_count": 553,
+        "subscribers_count": 21,
+        "watchers_count": 553
+    },
+    {
+        "clone_url": "https://github.com/rabbitmq/rabbitmq-website.git",
+        "full_name": "rabbitmq/rabbitmq-website",
+        "size": 126154,
+        "stargazers_count": 601,
+        "subscribers_count": 58,
+        "watchers_count": 601
+    },
+    {
+        "clone_url": "https://github.com/01-edu/public.git",
+        "full_name": "01-edu/public",
+        "size": 259783,
+        "stargazers_count": 159,
+        "subscribers_count": 15,
+        "watchers_count": 159
+    },
+    {
+        "clone_url": "https://github.com/nasa-gibs/worldview.git",
+        "full_name": "nasa-gibs/worldview",
+        "size": 553782,
+        "stargazers_count": 662,
+        "subscribers_count": 47,
+        "watchers_count": 662
+    },
+    {
+        "clone_url": "https://github.com/sandia-minimega/minimega.git",
+        "full_name": "sandia-minimega/minimega",
+        "size": 120830,
+        "stargazers_count": 145,
+        "subscribers_count": 21,
+        "watchers_count": 145
+    },
+    {
+        "clone_url": "https://github.com/esphome/esphome-devices.git",
+        "full_name": "esphome/esphome-devices",
+        "size": 129755,
+        "stargazers_count": 137,
+        "subscribers_count": 11,
+        "watchers_count": 137
+    },
+    {
+        "clone_url": "https://github.com/vfat-tools/vfat-tools.git",
+        "full_name": "vfat-tools/vfat-tools",
+        "size": 16547,
+        "stargazers_count": 824,
+        "subscribers_count": 114,
+        "watchers_count": 824
+    },
+    {
+        "clone_url": "https://github.com/logseq/marketplace.git",
+        "full_name": "logseq/marketplace",
+        "size": 18494,
+        "stargazers_count": 189,
+        "subscribers_count": 14,
+        "watchers_count": 189
+    },
+    {
+        "clone_url": "https://github.com/neo4j/neo4j-javascript-driver.git",
+        "full_name": "neo4j/neo4j-javascript-driver",
+        "size": 33019,
+        "stargazers_count": 819,
+        "subscribers_count": 79,
+        "watchers_count": 819
+    },
+    {
+        "clone_url": "https://github.com/dequelabs/axe-core-npm.git",
+        "full_name": "dequelabs/axe-core-npm",
+        "size": 17718,
+        "stargazers_count": 527,
+        "subscribers_count": 11,
+        "watchers_count": 527
+    },
+    {
+        "clone_url": "https://github.com/zeromicro/zero-doc.git",
+        "full_name": "zeromicro/zero-doc",
+        "size": 80444,
+        "stargazers_count": 508,
+        "subscribers_count": 22,
+        "watchers_count": 508
+    },
+    {
+        "clone_url": "https://github.com/Katello/katello.git",
+        "full_name": "Katello/katello",
+        "size": 205735,
+        "stargazers_count": 360,
+        "subscribers_count": 34,
+        "watchers_count": 360
+    },
+    {
+        "clone_url": "https://github.com/Skyscanner/backpack.git",
+        "full_name": "Skyscanner/backpack",
+        "size": 229197,
+        "stargazers_count": 475,
+        "subscribers_count": 39,
+        "watchers_count": 475
+    },
+    {
+        "clone_url": "https://github.com/mongo-express/mongo-express.git",
+        "full_name": "mongo-express/mongo-express",
+        "size": 10344,
+        "stargazers_count": 5189,
+        "subscribers_count": 102,
+        "watchers_count": 5189
+    },
+    {
+        "clone_url": "https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio.git",
+        "full_name": "superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio",
+        "size": 39412,
+        "stargazers_count": 139,
+        "subscribers_count": 22,
+        "watchers_count": 139
+    },
+    {
+        "clone_url": "https://github.com/focallocal/fl-maps.git",
+        "full_name": "focallocal/fl-maps",
+        "size": 159548,
+        "stargazers_count": 143,
+        "subscribers_count": 50,
+        "watchers_count": 143
+    },
+    {
+        "clone_url": "https://github.com/matthias-research/pages.git",
+        "full_name": "matthias-research/pages",
+        "size": 501111,
+        "stargazers_count": 514,
+        "subscribers_count": 30,
+        "watchers_count": 514
+    },
+    {
+        "clone_url": "https://github.com/SAP/ui5-tooling.git",
+        "full_name": "SAP/ui5-tooling",
+        "size": 58220,
+        "stargazers_count": 445,
+        "subscribers_count": 45,
+        "watchers_count": 445
+    },
+    {
+        "clone_url": "https://github.com/box/boxcli.git",
+        "full_name": "box/boxcli",
+        "size": 30704,
+        "stargazers_count": 202,
+        "subscribers_count": 27,
+        "watchers_count": 202
+    },
+    {
+        "clone_url": "https://github.com/MrAntares/roBrowserLegacy.git",
+        "full_name": "MrAntares/roBrowserLegacy",
+        "size": 11942,
+        "stargazers_count": 135,
+        "subscribers_count": 18,
+        "watchers_count": 135
+    },
+    {
+        "clone_url": "https://github.com/hapijs/joi.git",
+        "full_name": "hapijs/joi",
+        "size": 10033,
+        "stargazers_count": 20316,
+        "subscribers_count": 177,
+        "watchers_count": 20316
+    },
+    {
+        "clone_url": "https://github.com/tinymce/tinymce-dist.git",
+        "full_name": "tinymce/tinymce-dist",
+        "size": 38850,
+        "stargazers_count": 153,
+        "subscribers_count": 23,
+        "watchers_count": 153
+    },
+    {
+        "clone_url": "https://github.com/facebook/react-native-website.git",
+        "full_name": "facebook/react-native-website",
+        "size": 187023,
+        "stargazers_count": 1833,
+        "subscribers_count": 96,
+        "watchers_count": 1833
+    },
+    {
+        "clone_url": "https://github.com/namecheap/ilc.git",
+        "full_name": "namecheap/ilc",
+        "size": 16318,
+        "stargazers_count": 647,
+        "subscribers_count": 20,
+        "watchers_count": 647
+    },
+    {
+        "clone_url": "https://github.com/ravendb/docs.git",
+        "full_name": "ravendb/docs",
+        "size": 319301,
+        "stargazers_count": 113,
+        "subscribers_count": 20,
+        "watchers_count": 113
+    },
+    {
+        "clone_url": "https://github.com/franksun1211/TVBOX.git",
+        "full_name": "franksun1211/TVBOX",
+        "size": 57654,
+        "stargazers_count": 131,
+        "subscribers_count": 9,
+        "watchers_count": 131
+    },
+    {
+        "clone_url": "https://github.com/jumpserver/luna.git",
+        "full_name": "jumpserver/luna",
+        "size": 13203,
+        "stargazers_count": 259,
+        "subscribers_count": 24,
+        "watchers_count": 259
+    },
+    {
+        "clone_url": "https://github.com/salesforce/lwc.git",
+        "full_name": "salesforce/lwc",
+        "size": 38339,
+        "stargazers_count": 1469,
+        "subscribers_count": 88,
+        "watchers_count": 1469
+    },
+    {
+        "clone_url": "https://github.com/shipshapecode/ember-flatpickr.git",
+        "full_name": "shipshapecode/ember-flatpickr",
+        "size": 13453,
+        "stargazers_count": 106,
+        "subscribers_count": 4,
+        "watchers_count": 106
+    },
+    {
+        "clone_url": "https://github.com/scaleflex/filerobot-image-editor.git",
+        "full_name": "scaleflex/filerobot-image-editor",
+        "size": 28827,
+        "stargazers_count": 1079,
+        "subscribers_count": 28,
+        "watchers_count": 1079
+    },
+    {
+        "clone_url": "https://github.com/DataTables/DataTablesSrc.git",
+        "full_name": "DataTables/DataTablesSrc",
+        "size": 12950,
+        "stargazers_count": 489,
+        "subscribers_count": 52,
+        "watchers_count": 489
+    },
+    {
+        "clone_url": "https://github.com/JulienMaille/spicetify-dynamic-theme.git",
+        "full_name": "JulienMaille/spicetify-dynamic-theme",
+        "size": 12568,
+        "stargazers_count": 205,
+        "subscribers_count": 9,
+        "watchers_count": 205
+    },
+    {
+        "clone_url": "https://github.com/swagger-api/swagger-ui.git",
+        "full_name": "swagger-api/swagger-ui",
+        "size": 502448,
+        "stargazers_count": 24790,
+        "subscribers_count": 652,
+        "watchers_count": 24790
+    },
+    {
+        "clone_url": "https://github.com/superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio.git",
+        "full_name": "superpoweredSDK/web-audio-javascript-webassembly-SDK-interactive-audio",
+        "size": 39412,
+        "stargazers_count": 139,
+        "subscribers_count": 22,
+        "watchers_count": 139
+    },
+    {
+        "clone_url": "https://github.com/focallocal/fl-maps.git",
+        "full_name": "focallocal/fl-maps",
+        "size": 159548,
+        "stargazers_count": 143,
+        "subscribers_count": 50,
+        "watchers_count": 143
+    },
+    {
+        "clone_url": "https://github.com/matthias-research/pages.git",
+        "full_name": "matthias-research/pages",
+        "size": 501111,
+        "stargazers_count": 514,
+        "subscribers_count": 30,
+        "watchers_count": 514
+    },
+    {
+        "clone_url": "https://github.com/SAP/ui5-tooling.git",
+        "full_name": "SAP/ui5-tooling",
+        "size": 58220,
+        "stargazers_count": 445,
+        "subscribers_count": 45,
+        "watchers_count": 445
+    },
+    {
+        "clone_url": "https://github.com/box/boxcli.git",
+        "full_name": "box/boxcli",
+        "size": 30704,
+        "stargazers_count": 202,
+        "subscribers_count": 27,
+        "watchers_count": 202
+    },
+    {
+        "clone_url": "https://github.com/MrAntares/roBrowserLegacy.git",
+        "full_name": "MrAntares/roBrowserLegacy",
+        "size": 11942,
+        "stargazers_count": 135,
+        "subscribers_count": 18,
+        "watchers_count": 135
+    },
+    {
+        "clone_url": "https://github.com/hapijs/joi.git",
+        "full_name": "hapijs/joi",
+        "size": 10033,
+        "stargazers_count": 20316,
+        "subscribers_count": 177,
+        "watchers_count": 20316
+    },
+    {
+        "clone_url": "https://github.com/tinymce/tinymce-dist.git",
+        "full_name": "tinymce/tinymce-dist",
+        "size": 38850,
+        "stargazers_count": 153,
+        "subscribers_count": 23,
+        "watchers_count": 153
+    },
+    {
+        "clone_url": "https://github.com/facebook/react-native-website.git",
+        "full_name": "facebook/react-native-website",
+        "size": 187023,
+        "stargazers_count": 1833,
+        "subscribers_count": 96,
+        "watchers_count": 1833
+    },
+    {
+        "clone_url": "https://github.com/namecheap/ilc.git",
+        "full_name": "namecheap/ilc",
+        "size": 16318,
+        "stargazers_count": 647,
+        "subscribers_count": 20,
+        "watchers_count": 647
+    },
+    {
+        "clone_url": "https://github.com/ravendb/docs.git",
+        "full_name": "ravendb/docs",
+        "size": 319301,
+        "stargazers_count": 113,
+        "subscribers_count": 20,
+        "watchers_count": 113
+    },
+    {
+        "clone_url": "https://github.com/franksun1211/TVBOX.git",
+        "full_name": "franksun1211/TVBOX",
+        "size": 57654,
+        "stargazers_count": 131,
+        "subscribers_count": 9,
+        "watchers_count": 131
+    },
+    {
+        "clone_url": "https://github.com/jumpserver/luna.git",
+        "full_name": "jumpserver/luna",
+        "size": 13203,
+        "stargazers_count": 259,
+        "subscribers_count": 24,
+        "watchers_count": 259
+    },
+    {
+        "clone_url": "https://github.com/salesforce/lwc.git",
+        "full_name": "salesforce/lwc",
+        "size": 38339,
+        "stargazers_count": 1469,
+        "subscribers_count": 88,
+        "watchers_count": 1469
+    },
+    {
+        "clone_url": "https://github.com/shipshapecode/ember-flatpickr.git",
+        "full_name": "shipshapecode/ember-flatpickr",
+        "size": 13453,
+        "stargazers_count": 106,
+        "subscribers_count": 4,
+        "watchers_count": 106
+    },
+    {
+        "clone_url": "https://github.com/automerge/automerge.git",
+        "full_name": "automerge/automerge",
+        "size": 57543,
+        "stargazers_count": 2513,
+        "subscribers_count": 24,
+        "watchers_count": 2513
+    },
+    {
+        "clone_url": "https://github.com/SupaGruen/StableDiffusion-CheatSheet.git",
+        "full_name": "SupaGruen/StableDiffusion-CheatSheet",
+        "size": 179029,
+        "stargazers_count": 1453,
+        "subscribers_count": 29,
+        "watchers_count": 1453
+    },
+    {
+        "clone_url": "https://github.com/particle-iot/docs.git",
+        "full_name": "particle-iot/docs",
+        "size": 2640588,
+        "stargazers_count": 143,
+        "subscribers_count": 62,
+        "watchers_count": 143
+    },
+    {
+        "clone_url": "https://github.com/hodgef/react-simple-keyboard.git",
+        "full_name": "hodgef/react-simple-keyboard",
+        "size": 29904,
+        "stargazers_count": 528,
+        "subscribers_count": 5,
+        "watchers_count": 528
+    },
+    {
+        "clone_url": "https://github.com/fex-team/fis3.git",
+        "full_name": "fex-team/fis3",
+        "size": 13698,
+        "stargazers_count": 2789,
+        "subscribers_count": 189,
+        "watchers_count": 2789
+    },
+    {
+        "clone_url": "https://github.com/HSLdevcom/digitransit-ui.git",
+        "full_name": "HSLdevcom/digitransit-ui",
+        "size": 186031,
+        "stargazers_count": 228,
+        "subscribers_count": 23,
+        "watchers_count": 228
+    },
+    {
+        "clone_url": "https://github.com/simple-keyboard/simple-keyboard-layouts.git",
+        "full_name": "simple-keyboard/simple-keyboard-layouts",
+        "size": 60465,
+        "stargazers_count": 182,
+        "subscribers_count": 3,
+        "watchers_count": 182
+    },
+    {
+        "clone_url": "https://github.com/EYBlockchain/nightfall_3.git",
+        "full_name": "EYBlockchain/nightfall_3",
+        "size": 565498,
+        "stargazers_count": 247,
+        "subscribers_count": 17,
+        "watchers_count": 247
+    },
+    {
+        "clone_url": "https://github.com/RunOnFlux/flux.git",
+        "full_name": "RunOnFlux/flux",
+        "size": 55165,
+        "stargazers_count": 201,
+        "subscribers_count": 25,
+        "watchers_count": 201
+    },
+    {
+        "clone_url": "https://github.com/xcanwin/KeepChatGPT.git",
+        "full_name": "xcanwin/KeepChatGPT",
+        "size": 13191,
+        "stargazers_count": 12446,
+        "subscribers_count": 36,
+        "watchers_count": 12446
+    },
+    {
+        "clone_url": "https://github.com/duckduckgo/duckduckgo-privacy-extension.git",
+        "full_name": "duckduckgo/duckduckgo-privacy-extension",
+        "size": 115082,
+        "stargazers_count": 1149,
+        "subscribers_count": 99,
+        "watchers_count": 1149
+    },
+    {
+        "clone_url": "https://github.com/mue/mue.git",
+        "full_name": "mue/mue",
+        "size": 30851,
+        "stargazers_count": 388,
+        "subscribers_count": 9,
+        "watchers_count": 388
+    },
+    {
+        "clone_url": "https://github.com/tencent-connect/bot-docs.git",
+        "full_name": "tencent-connect/bot-docs",
+        "size": 34367,
+        "stargazers_count": 114,
+        "subscribers_count": 11,
+        "watchers_count": 114
+    },
+    {
+        "clone_url": "https://github.com/mikemccand/luceneutil.git",
+        "full_name": "mikemccand/luceneutil",
+        "size": 83283,
+        "stargazers_count": 182,
+        "subscribers_count": 25,
+        "watchers_count": 182
+    },
+    {
+        "clone_url": "https://github.com/noobaa/noobaa-core.git",
+        "full_name": "noobaa/noobaa-core",
+        "size": 66875,
+        "stargazers_count": 240,
+        "subscribers_count": 16,
+        "watchers_count": 240
+    },
+    {
+        "clone_url": "https://github.com/ampproject/amphtml.git",
+        "full_name": "ampproject/amphtml",
+        "size": 951100,
+        "stargazers_count": 14905,
+        "subscribers_count": 644,
+        "watchers_count": 14905
+    },
+    {
+        "clone_url": "https://github.com/tus/tus-js-client.git",
+        "full_name": "tus/tus-js-client",
+        "size": 12789,
+        "stargazers_count": 1812,
+        "subscribers_count": 35,
+        "watchers_count": 1812
+    },
+    {
+        "clone_url": "https://github.com/visjs/vis-network.git",
+        "full_name": "visjs/vis-network",
+        "size": 1355871,
+        "stargazers_count": 2691,
+        "subscribers_count": 27,
+        "watchers_count": 2691
+    },
+    {
+        "clone_url": "https://github.com/ninsuo/twigfiddle.git",
+        "full_name": "ninsuo/twigfiddle",
+        "size": 51108,
+        "stargazers_count": 132,
+        "subscribers_count": 6,
+        "watchers_count": 132
+    },
+    {
+        "clone_url": "https://github.com/Fyrd/caniuse.git",
+        "full_name": "Fyrd/caniuse",
+        "size": 207035,
+        "stargazers_count": 5383,
+        "subscribers_count": 157,
+        "watchers_count": 5383
+    },
+    {
+        "clone_url": "https://github.com/mapbox/mapbox-gl-js.git",
+        "full_name": "mapbox/mapbox-gl-js",
+        "size": 453991,
+        "stargazers_count": 10417,
+        "subscribers_count": 349,
+        "watchers_count": 10417
+    },
+    {
+        "clone_url": "https://github.com/datocms/new-website.git",
+        "full_name": "datocms/new-website",
+        "size": 43873,
+        "stargazers_count": 138,
+        "subscribers_count": 5,
+        "watchers_count": 138
+    },
+    {
+        "clone_url": "https://github.com/harryheman/my-js.git",
+        "full_name": "harryheman/my-js",
+        "size": 127993,
+        "stargazers_count": 405,
+        "subscribers_count": 13,
+        "watchers_count": 405
+    },
+    {
+        "clone_url": "https://github.com/exceljs/exceljs.git",
+        "full_name": "exceljs/exceljs",
+        "size": 21789,
+        "stargazers_count": 12199,
+        "subscribers_count": 178,
+        "watchers_count": 12199
+    },
+    {
+        "clone_url": "https://github.com/fabricjs/fabric.js.git",
+        "full_name": "fabricjs/fabric.js",
+        "size": 221378,
+        "stargazers_count": 26331,
+        "subscribers_count": 477,
+        "watchers_count": 26331
+    },
+    {
+        "clone_url": "https://github.com/twbs/icons.git",
+        "full_name": "twbs/icons",
+        "size": 65129,
+        "stargazers_count": 6967,
+        "subscribers_count": 140,
+        "watchers_count": 6967
+    },
+    {
+        "clone_url": "https://github.com/hdbjlizhe/fanli.git",
+        "full_name": "hdbjlizhe/fanli",
+        "size": 11419,
+        "stargazers_count": 109,
+        "subscribers_count": 2,
+        "watchers_count": 109
+    },
+    {
+        "clone_url": "https://github.com/cycjimmy/jsmpeg-player.git",
+        "full_name": "cycjimmy/jsmpeg-player",
+        "size": 18579,
+        "stargazers_count": 147,
+        "subscribers_count": 12,
+        "watchers_count": 147
+    },
+    {
+        "clone_url": "https://github.com/Schneegans/Burn-My-Windows.git",
+        "full_name": "Schneegans/Burn-My-Windows",
+        "size": 43675,
+        "stargazers_count": 2446,
+        "subscribers_count": 19,
+        "watchers_count": 2446
+    },
+    {
+        "clone_url": "https://github.com/awslabs/aws-amplify-identity-broker.git",
+        "full_name": "awslabs/aws-amplify-identity-broker",
+        "size": 25044,
+        "stargazers_count": 182,
+        "subscribers_count": 10,
+        "watchers_count": 182
+    },
+    {
+        "clone_url": "https://github.com/wingkwong/leetcode-the-hard-way.git",
+        "full_name": "wingkwong/leetcode-the-hard-way",
+        "size": 865356,
+        "stargazers_count": 759,
+        "subscribers_count": 11,
+        "watchers_count": 759
+    },
+    {
+        "clone_url": "https://github.com/arackaf/booklist.git",
+        "full_name": "arackaf/booklist",
+        "size": 79558,
+        "stargazers_count": 262,
+        "subscribers_count": 8,
+        "watchers_count": 262
+    },
+    {
+        "clone_url": "https://github.com/FormidableLabs/victory.git",
+        "full_name": "FormidableLabs/victory",
+        "size": 59443,
+        "stargazers_count": 10596,
+        "subscribers_count": 124,
+        "watchers_count": 10596
+    },
+    {
+        "clone_url": "https://github.com/gavinmn/nelson.co.git",
+        "full_name": "gavinmn/nelson.co",
+        "size": 128762,
+        "stargazers_count": 243,
+        "subscribers_count": 2,
+        "watchers_count": 243
+    },
+    {
+        "clone_url": "https://github.com/yaqwsx/jlcparts.git",
+        "full_name": "yaqwsx/jlcparts",
+        "size": 419778,
+        "stargazers_count": 427,
+        "subscribers_count": 22,
+        "watchers_count": 427
+    },
+    {
+        "clone_url": "https://github.com/webpack/webpack.git",
+        "full_name": "webpack/webpack",
+        "size": 61799,
+        "stargazers_count": 63689,
+        "subscribers_count": 1504,
+        "watchers_count": 63689
+    },
+    {
+        "clone_url": "https://github.com/sadanandpai/frontend-mini-challenges.git",
+        "full_name": "sadanandpai/frontend-mini-challenges",
+        "size": 11755,
+        "stargazers_count": 1633,
+        "subscribers_count": 14,
+        "watchers_count": 1633
+    },
+    {
+        "clone_url": "https://github.com/saadpasta/developerFolio.git",
+        "full_name": "saadpasta/developerFolio",
+        "size": 26000,
+        "stargazers_count": 4624,
+        "subscribers_count": 40,
+        "watchers_count": 4624
+    },
+    {
+        "clone_url": "https://github.com/thinkgem/jeesite4.git",
+        "full_name": "thinkgem/jeesite4",
+        "size": 35788,
+        "stargazers_count": 1716,
+        "subscribers_count": 208,
+        "watchers_count": 1716
+    },
+    {
+        "clone_url": "https://github.com/ONLYOFFICE/server.git",
+        "full_name": "ONLYOFFICE/server",
+        "size": 37386,
+        "stargazers_count": 170,
+        "subscribers_count": 35,
+        "watchers_count": 170
+    },
+    {
+        "clone_url": "https://github.com/Codeinwp/otter-blocks.git",
+        "full_name": "Codeinwp/otter-blocks",
+        "size": 72247,
+        "stargazers_count": 106,
+        "subscribers_count": 9,
+        "watchers_count": 106
+    },
+    {
+        "clone_url": "https://github.com/Synthetixio/synpress.git",
+        "full_name": "Synthetixio/synpress",
+        "size": 32546,
+        "stargazers_count": 480,
+        "subscribers_count": 14,
+        "watchers_count": 480
+    },
+    {
+        "clone_url": "https://github.com/thamara/time-to-leave.git",
+        "full_name": "thamara/time-to-leave",
+        "size": 19511,
+        "stargazers_count": 413,
+        "subscribers_count": 15,
+        "watchers_count": 413
+    },
+    {
+        "clone_url": "https://github.com/pcottle/learnGitBranching.git",
+        "full_name": "pcottle/learnGitBranching",
+        "size": 42040,
+        "stargazers_count": 28776,
+        "subscribers_count": 527,
+        "watchers_count": 28776
+    },
+    {
+        "clone_url": "https://github.com/qdleader/qdleader.git",
+        "full_name": "qdleader/qdleader",
+        "size": 26373,
+        "stargazers_count": 697,
+        "subscribers_count": 21,
+        "watchers_count": 697
+    },
+    {
+        "clone_url": "https://github.com/viarotel-org/escrcpy.git",
+        "full_name": "viarotel-org/escrcpy",
+        "size": 31702,
+        "stargazers_count": 310,
+        "subscribers_count": 5,
+        "watchers_count": 310
+    },
+    {
+        "clone_url": "https://github.com/responsible-ai-collaborative/aiid.git",
+        "full_name": "responsible-ai-collaborative/aiid",
+        "size": 68810,
+        "stargazers_count": 137,
+        "subscribers_count": 6,
+        "watchers_count": 137
+    },
+    {
+        "clone_url": "https://github.com/ember-cli/ember-cli.git",
+        "full_name": "ember-cli/ember-cli",
+        "size": 26444,
+        "stargazers_count": 3284,
+        "subscribers_count": 159,
+        "watchers_count": 3284
+    },
+    {
+        "clone_url": "https://github.com/pinterest/teletraan.git",
+        "full_name": "pinterest/teletraan",
+        "size": 16040,
+        "stargazers_count": 1789,
+        "subscribers_count": 61,
+        "watchers_count": 1789
+    },
+    {
+        "clone_url": "https://github.com/szhsin/react-menu.git",
+        "full_name": "szhsin/react-menu",
+        "size": 31918,
+        "stargazers_count": 1046,
+        "subscribers_count": 7,
+        "watchers_count": 1046
+    },
+    {
+        "clone_url": "https://github.com/arkime/arkime.git",
+        "full_name": "arkime/arkime",
+        "size": 51044,
+        "stargazers_count": 5873,
+        "subscribers_count": 350,
+        "watchers_count": 5873
+    },
+    {
+        "clone_url": "https://github.com/Kruithne/wow.export.git",
+        "full_name": "Kruithne/wow.export",
+        "size": 64931,
+        "stargazers_count": 191,
+        "subscribers_count": 13,
+        "watchers_count": 191
+    },
+    {
+        "clone_url": "https://github.com/AbhishekSuresh2/ABHISHEK-SER.git",
+        "full_name": "AbhishekSuresh2/ABHISHEK-SER",
+        "size": 18277,
+        "stargazers_count": 214,
+        "subscribers_count": 4,
+        "watchers_count": 214
+    },
+    {
+        "clone_url": "https://github.com/eBay/ebayui-core.git",
+        "full_name": "eBay/ebayui-core",
+        "size": 137284,
+        "stargazers_count": 204,
+        "subscribers_count": 29,
+        "watchers_count": 204
+    },
+    {
+        "clone_url": "https://github.com/stalniy/casl.git",
+        "full_name": "stalniy/casl",
+        "size": 19713,
+        "stargazers_count": 5258,
+        "subscribers_count": 42,
+        "watchers_count": 5258
+    },
+    {
+        "clone_url": "https://github.com/Esri/esri-leaflet.git",
+        "full_name": "Esri/esri-leaflet",
+        "size": 26567,
+        "stargazers_count": 1553,
+        "subscribers_count": 172,
+        "watchers_count": 1553
+    },
+    {
+        "clone_url": "https://github.com/MicrosoftDocs/office-docs-powershell.git",
+        "full_name": "MicrosoftDocs/office-docs-powershell",
+        "size": 101049,
+        "stargazers_count": 573,
+        "subscribers_count": 92,
+        "watchers_count": 573
+    },
+    {
+        "clone_url": "https://github.com/gitfrosh/lotr-api.git",
+        "full_name": "gitfrosh/lotr-api",
+        "size": 13502,
+        "stargazers_count": 214,
+        "subscribers_count": 11,
+        "watchers_count": 214
+    },
+    {
+        "clone_url": "https://github.com/hms-dbmi/viv.git",
+        "full_name": "hms-dbmi/viv",
+        "size": 14531,
+        "stargazers_count": 237,
+        "subscribers_count": 14,
+        "watchers_count": 237
+    },
+    {
+        "clone_url": "https://github.com/education/codespaces-project-template-js.git",
+        "full_name": "education/codespaces-project-template-js",
+        "size": 27313,
+        "stargazers_count": 387,
+        "subscribers_count": 16,
+        "watchers_count": 387
+    },
+    {
+        "clone_url": "https://github.com/sbs20/scanservjs.git",
+        "full_name": "sbs20/scanservjs",
+        "size": 17461,
+        "stargazers_count": 570,
+        "subscribers_count": 6,
+        "watchers_count": 570
+    },
+    {
+        "clone_url": "https://github.com/ComPlat/chemotion_ELN.git",
+        "full_name": "ComPlat/chemotion_ELN",
+        "size": 37080,
+        "stargazers_count": 101,
+        "subscribers_count": 20,
+        "watchers_count": 101
+    },
+    {
+        "clone_url": "https://github.com/Kitware/vtk-js.git",
+        "full_name": "Kitware/vtk-js",
+        "size": 2332570,
+        "stargazers_count": 1068,
+        "subscribers_count": 65,
+        "watchers_count": 1068
+    },
+    {
+        "clone_url": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT.git",
+        "full_name": "Miskatonic-Investigative-Society/CoC7-FoundryVTT",
+        "size": 17087,
+        "stargazers_count": 101,
+        "subscribers_count": 14,
+        "watchers_count": 101
+    },
+    {
+        "clone_url": "https://github.com/paypal/paypal-checkout-components.git",
+        "full_name": "paypal/paypal-checkout-components",
+        "size": 360954,
+        "stargazers_count": 1216,
+        "subscribers_count": 114,
+        "watchers_count": 1216
+    },
+    {
+        "clone_url": "https://github.com/box/box-ui-elements.git",
+        "full_name": "box/box-ui-elements",
+        "size": 68657,
+        "stargazers_count": 532,
+        "subscribers_count": 67,
+        "watchers_count": 532
+    },
+    {
+        "clone_url": "https://github.com/jsreport/jsreport.git",
+        "full_name": "jsreport/jsreport",
+        "size": 167449,
+        "stargazers_count": 1095,
+        "subscribers_count": 55,
+        "watchers_count": 1095
+    },
+    {
+        "clone_url": "https://github.com/Ravinou/borgwarehouse.git",
+        "full_name": "Ravinou/borgwarehouse",
+        "size": 18731,
+        "stargazers_count": 151,
+        "subscribers_count": 4,
+        "watchers_count": 151
+    },
+    {
+        "clone_url": "https://github.com/Schneegans/Fly-Pie.git",
+        "full_name": "Schneegans/Fly-Pie",
+        "size": 18639,
+        "stargazers_count": 1082,
+        "subscribers_count": 8,
+        "watchers_count": 1082
+    },
+    {
+        "clone_url": "https://github.com/videojs/http-streaming.git",
+        "full_name": "videojs/http-streaming",
+        "size": 23348,
+        "stargazers_count": 2330,
+        "subscribers_count": 83,
+        "watchers_count": 2330
+    },
+    {
+        "clone_url": "https://github.com/nasa/Open-Source-Catalog.git",
+        "full_name": "nasa/Open-Source-Catalog",
+        "size": 11858,
+        "stargazers_count": 264,
+        "subscribers_count": 53,
+        "watchers_count": 264
+    },
+    {
+        "clone_url": "https://github.com/OperationCode/front-end.git",
+        "full_name": "OperationCode/front-end",
+        "size": 38404,
+        "stargazers_count": 361,
+        "subscribers_count": 27,
+        "watchers_count": 361
+    },
+    {
+        "clone_url": "https://github.com/node-red/node-red.git",
+        "full_name": "node-red/node-red",
+        "size": 48416,
+        "stargazers_count": 17662,
+        "subscribers_count": 535,
+        "watchers_count": 17662
+    },
+    {
+        "clone_url": "https://github.com/adobe/xdm.git",
+        "full_name": "adobe/xdm",
+        "size": 29403,
+        "stargazers_count": 227,
+        "subscribers_count": 29,
+        "watchers_count": 227
+    },
+    {
+        "clone_url": "https://github.com/step-security/github-actions-goat.git",
+        "full_name": "step-security/github-actions-goat",
+        "size": 15655,
+        "stargazers_count": 369,
+        "subscribers_count": 6,
+        "watchers_count": 369
+    },
+    {
+        "clone_url": "https://github.com/county-of-simcoe-gis/SimcoeCountyWebViewer.git",
+        "full_name": "county-of-simcoe-gis/SimcoeCountyWebViewer",
+        "size": 202371,
+        "stargazers_count": 125,
+        "subscribers_count": 15,
+        "watchers_count": 125
+    },
+    {
+        "clone_url": "https://github.com/yjs/yjs.git",
+        "full_name": "yjs/yjs",
+        "size": 72473,
+        "stargazers_count": 13629,
+        "subscribers_count": 114,
+        "watchers_count": 13629
+    },
+    {
+        "clone_url": "https://github.com/privacy-tech-lab/gpc-optmeowt.git",
+        "full_name": "privacy-tech-lab/gpc-optmeowt",
+        "size": 25584,
+        "stargazers_count": 110,
+        "subscribers_count": 15,
+        "watchers_count": 110
+    },
+    {
+        "clone_url": "https://github.com/ViewBlock/cryptometa.git",
+        "full_name": "ViewBlock/cryptometa",
+        "size": 108750,
+        "stargazers_count": 263,
+        "subscribers_count": 27,
+        "watchers_count": 263
+    },
+    {
+        "clone_url": "https://github.com/swapnilsparsh/30DaysOfJavaScript.git",
+        "full_name": "swapnilsparsh/30DaysOfJavaScript",
+        "size": 421492,
+        "stargazers_count": 574,
+        "subscribers_count": 5,
+        "watchers_count": 574
+    },
+    {
+        "clone_url": "https://github.com/alganzory/HaramBlur.git",
+        "full_name": "alganzory/HaramBlur",
+        "size": 72383,
+        "stargazers_count": 173,
+        "subscribers_count": 6,
+        "watchers_count": 173
+    },
+    {
+        "clone_url": "https://github.com/drkostas/drkostas.github.io.git",
+        "full_name": "drkostas/drkostas.github.io",
+        "size": 33694,
+        "stargazers_count": 124,
+        "subscribers_count": 6,
+        "watchers_count": 124
+    },
+    {
+        "clone_url": "https://github.com/infinitered/nsfwjs.git",
+        "full_name": "infinitered/nsfwjs",
+        "size": 64669,
+        "stargazers_count": 7102,
+        "subscribers_count": 81,
+        "watchers_count": 7102
+    },
+    {
+        "clone_url": "https://github.com/lidofinance/lido-dao.git",
+        "full_name": "lidofinance/lido-dao",
+        "size": 86876,
+        "stargazers_count": 314,
+        "subscribers_count": 37,
+        "watchers_count": 314
+    },
+    {
+        "clone_url": "https://github.com/orkestral/venom.git",
+        "full_name": "orkestral/venom",
+        "size": 15157,
+        "stargazers_count": 5406,
+        "subscribers_count": 152,
+        "watchers_count": 5406
+    },
+    {
+        "clone_url": "https://github.com/TT-ReBORN/Georgia-ReBORN.git",
+        "full_name": "TT-ReBORN/Georgia-ReBORN",
+        "size": 88040,
+        "stargazers_count": 390,
+        "subscribers_count": 15,
+        "watchers_count": 390
+    }
+]
