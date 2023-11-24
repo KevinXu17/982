@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # List of repository URLs
-REPOS=("https://github.com/education/codespaces-project-template-js.git" "https://github.com/education/autograding.git")
+REPOS=("https://github.com/education/codespaces-project-template-js.git")
 
 # Directory where repositories will be cloned
-CLONE_DIR="/Users/kevinxu/Desktop/SFU/C982/pj/data/projects"
+CLONE_DIR="/Users/kevinxu/Desktop/SFU/C982/pj/py/projects"
 
 # Directory to store ESLint results
-RESULTS_DIR="/Users/kevinxu/Desktop/SFU/C982/pj/data/infos"
+RESULTS_DIR="/Users/kevinxu/Desktop/SFU/C982/pj/py/results"
 
 # Clone and run ESLint
 for repo in "${REPOS[@]}"; do
@@ -21,9 +21,9 @@ for repo in "${REPOS[@]}"; do
     cd "$CLONE_DIR/$REPO_NAME"
 
     # Install ESLint locally if needed
-    npm init -y
-    npm install eslint
+    # npm init -y
+    # npm install eslint
 
     # Run ESLint and save results in JSON format
-    npx eslint . -f json > "$RESULTS_DIR/${REPO_NAME}_eslint_results.json"
+    npx standard --verbose > "$RESULTS_DIR/${REPO_NAME}_standard_results.txt"
 done
