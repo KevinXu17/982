@@ -1,4 +1,5 @@
-import json, os, re, pandas
+import json, os, re
+import pandas as pd
 
 class ETL:
 
@@ -51,10 +52,9 @@ if __name__ == '__main__':
     rules_category = etl.read_json(rules_file)
     column_names, column_name_index, rule_category_dict = etl.create_column_names(rules_category)
 
-    # 2 read raw project url
+    # 2 read validation result
     directory_path = 'results'
     projects_result = etl.read_txt_files_in_directory(directory_path)
-
 
     rows_list = []
     # dataframe format: projectName, category1, category2...rule1, rule2...
@@ -79,7 +79,16 @@ if __name__ == '__main__':
 
         rows_list.append([k] + row_list)
 
+    # 3 dataframe -> file
+    column_names = ['projectName'] +  column_names
+    df = pd.DataFrame(columns=column_names)
 
+    for i in range(len(rows_list)):
+        df.loc[i] = rows_list[i]
+
+    # load data
+    csv_path = 'data/data.csv'
+    df.to_csv(csv_path, index=False)
 
 
 
